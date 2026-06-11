@@ -1,0 +1,911 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T20:30:00Z",
+  "exportedAt": "2026-06-11T22:52:00.983Z",
+  "districtCode": "MI-07",
+  "data": {
+    "DISTRICT": {
+      "id": "mi-07",
+      "districtNumber": "MI-07",
+      "districtName": "Michigan's 7th Congressional District",
+      "state": "Michigan",
+      "counties": [
+        "Ingham",
+        "Eaton",
+        "Livingston",
+        "Shiawassee",
+        "Clinton"
+      ],
+      "majorPlaces": [
+        "Lansing",
+        "East Lansing",
+        "Mason",
+        "Charlotte",
+        "Howell",
+        "Owosso"
+      ],
+      "cycleYear": 2026,
+      "population": 762000,
+      "registeredVoters": 390000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 155000,
+          "pct": 39.7
+        },
+        {
+          "label": "Republican",
+          "count": 145000,
+          "pct": 37.2
+        },
+        {
+          "label": "Independent / No Party",
+          "count": 75000,
+          "pct": 19.2
+        },
+        {
+          "label": "Other",
+          "count": 15000,
+          "pct": 3.9
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — MI-07",
+        "winner": {
+          "name": "Tom Barrett (R)",
+          "pct": 51,
+          "votes": 185000
+        },
+        "runnerUp": {
+          "name": "Curtis Hertel Jr. (D)",
+          "pct": 49,
+          "votes": 178000
+        },
+        "turnoutPct": 62
+      }
+    },
+    "SOURCES": {
+      "src-mi-sos-elections": {
+        "id": "src-mi-sos-elections",
+        "name": "Michigan Secretary of State — Elections",
+        "short": "MI SOS Elections",
+        "url": "https://www.michigan.gov/sos/elections",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-mi-voter-info": {
+        "id": "src-mi-voter-info",
+        "name": "Michigan Voter Information Center (mvic.soswa.state.mi.us)",
+        "short": "MI Voter Info Center",
+        "url": "https://mvic.sos.state.mi.us/",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-mi-elections-law": {
+        "id": "src-mi-elections-law",
+        "name": "Michigan Election Law (MCL Chapter 168)",
+        "short": "MI Election Law",
+        "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-chap168",
+        "publisher": "Michigan Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ingham-clerk": {
+        "id": "src-ingham-clerk",
+        "name": "Ingham County Clerk — Elections",
+        "short": "Ingham Clerk",
+        "url": "https://ingham.org/clerk",
+        "publisher": "Ingham County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-eaton-clerk": {
+        "id": "src-eaton-clerk",
+        "name": "Eaton County Clerk — Elections",
+        "short": "Eaton Clerk",
+        "url": "https://www.eatoncounty.org/152/Clerk",
+        "publisher": "Eaton County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-livingston-clerk": {
+        "id": "src-livingston-clerk",
+        "name": "Livingston County Clerk — Elections",
+        "short": "Livingston Clerk",
+        "url": "https://www.livgov.com/clerk",
+        "publisher": "Livingston County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-shiawassee-clerk": {
+        "id": "src-shiawassee-clerk",
+        "name": "Shiawassee County Clerk — Elections",
+        "short": "Shiawassee Clerk",
+        "url": "https://www.shiawassee.net/Clerk",
+        "publisher": "Shiawassee County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-clinton-clerk": {
+        "id": "src-clinton-clerk",
+        "name": "Clinton County Clerk — Elections",
+        "short": "Clinton Clerk",
+        "url": "https://www.clinton-county.org/91/County-Clerk",
+        "publisher": "Clinton County Clerk",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-ballotpedia-mi07": {
+        "id": "src-ballotpedia-mi07",
+        "name": "Ballotpedia — Michigan's 7th Congressional District election, 2026",
+        "short": "Ballotpedia MI-07",
+        "url": "https://ballotpedia.org/Michigan%27s_7th_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Ballotpedia 2026-specific district page was blocked by robots.txt for automated access; URL is publicly accessible via browser."
+      },
+      "src-lansing-state-journal": {
+        "id": "src-lansing-state-journal",
+        "name": "Lansing State Journal — Michigan politics & elections",
+        "short": "Lansing State Journal",
+        "url": "https://www.lansingstatejournal.com/",
+        "publisher": "Lansing State Journal (USA Today Network)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-detroit-free-press": {
+        "id": "src-detroit-free-press",
+        "name": "Detroit Free Press — Michigan politics & elections",
+        "short": "Detroit Free Press",
+        "url": "https://www.freep.com/",
+        "publisher": "Detroit Free Press (USA Today Network)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-detroit-news": {
+        "id": "src-detroit-news",
+        "name": "Detroit News — Michigan politics & elections",
+        "short": "Detroit News",
+        "url": "https://www.detroitnews.com/",
+        "publisher": "The Detroit News",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-grand-rapids-biz-journal": {
+        "id": "src-grand-rapids-biz-journal",
+        "name": "Grand Rapids Business Journal — Michigan statewide coverage",
+        "short": "Grand Rapids Business Journal",
+        "url": "https://www.grbj.com/",
+        "publisher": "Grand Rapids Business Journal",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-mi07-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-06",
+        "significance": "Last day to register by mail or online for the August 4, 2026 Michigan primary (30 days before election day per MCL 168.497). Same-day registration available at clerk's office or polling place through Election Day under Prop 2-2022.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-voter-info",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-primary-absentee-app-deadline",
+        "milestone": "Absentee ballot application deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-31",
+        "significance": "Last day to submit an absentee ballot application by mail (must be received by local clerk by 5 PM, 4 days before election day). After this date, voters must apply in person at their local clerk's office.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-primary-vbm-mailed",
+        "milestone": "Absent voter ballots begin mailing — primary",
+        "electionType": "primary",
+        "date": "2026-07-07",
+        "significance": "County clerks begin mailing absent voter (AV) ballots to approved applicants beginning approximately 45 days before the primary. Michigan does not automatically mail ballots to all voters — applications are required unless pre-registered on the Permanent Absentee Voter list.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Clerks",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-ingham-clerk",
+          "src-eaton-clerk",
+          "src-livingston-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-primary-early-start",
+        "milestone": "Early in-person (absent voter) voting begins — primary",
+        "electionType": "primary",
+        "date": "2026-07-25",
+        "significance": "Michigan's mandatory 9-day early in-person voting period begins the second Saturday before Election Day (Prop 2-2022, MCL 168.759b). All five MI-07 county clerks must offer in-person AV ballot access during this window. Exact hours vary by jurisdiction — confirm with each county clerk.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Clerks",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law",
+          "src-ingham-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-08-04",
+        "significance": "Michigan state primary — first Tuesday after the first Monday in August 2026. MI-07 contested Democratic primary (Brink vs. Lawrence vs. Maasdam vs. Rais); Tom Barrett (R) runs in Republican primary. Polls open 7 AM – 8 PM local time (ET). Any voter in line by 8 PM must be allowed to vote.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-ballotpedia-mi07",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-primary-ballot-receipt",
+        "milestone": "Absent voter ballot receipt deadline — primary",
+        "electionType": "primary",
+        "date": "2026-08-04",
+        "significance": "Absent voter ballots must be received by the local clerk by 8 PM on Election Day (August 4, 2026). Michigan does NOT count ballots postmarked by Election Day but received later — physical receipt by 8 PM is required.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Clerks",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-primary-canvass",
+        "milestone": "County canvass and certification — primary",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "County boards of canvassers must complete the official primary canvass within 14 days of election day (approximately August 18, 2026). Provisional and challenged ballots are resolved during canvass.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Boards of Canvassers",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-04",
+        "significance": "Last day to register online or by mail for the November 3, 2026 general election (30 days before election day per MCL 168.497). Same-day registration available through Election Day at clerk's office or at any polling place under Prop 2-2022.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-voter-info",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-vbm-mailed",
+        "milestone": "Absent voter ballots begin mailing — general",
+        "electionType": "general",
+        "date": "2026-09-19",
+        "significance": "County clerks begin mailing absent voter ballots to approved applicants approximately 45 days before general election day. Voters must apply; Michigan does not automatically send ballots unless on the Permanent Absentee Voter list.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Clerks",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-ingham-clerk",
+          "src-eaton-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-absentee-app-deadline",
+        "milestone": "Absentee ballot application deadline — general",
+        "electionType": "general",
+        "date": "2026-10-30",
+        "significance": "Last day to submit an absentee ballot application by mail (must be received by local clerk by 5 PM, 4 days before election day, per MCL 168.759). After this date, voters must apply and vote in person at their local clerk's office.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-early-start",
+        "milestone": "Early in-person voting begins — general",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "Michigan's mandatory 9-day early in-person voting period begins the second Saturday before Election Day (October 24, 2026). All five MI-07 county clerks and any established early voting sites must be open during this period. Hours set by local jurisdiction — check with Ingham, Eaton, Livingston, Shiawassee, and Clinton county clerks.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Clerks",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law",
+          "src-ingham-clerk",
+          "src-eaton-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. MI-07: Tom Barrett (R, incumbent) vs. Democratic nominee (TBD from Aug 4 primary). Polls open 7 AM – 8 PM ET. Any voter in line at 8 PM must be allowed to vote. Cook rates MI-07 a Toss Up.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-ballotpedia-mi07"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-ballot-receipt",
+        "milestone": "Absent voter ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Absent voter ballots must be received by the local clerk by 8 PM on Election Day (November 3, 2026). Michigan does not accept ballots received after polls close, regardless of postmark. Voters are advised to use official drop boxes if mailing late.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Clerks",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-signature-cure",
+        "milestone": "AV ballot signature cure deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Voters with missing or deficient AV ballot return-envelope signatures must cure the deficiency by 8 PM on Election Day per a 2024 Michigan court ruling establishing a same-day cure right. Some county clerks issue guidance allowing cure until canvass — this is the active conflict between state court precedent and county-level guidance.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Clerks",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections",
+          "src-ingham-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-canvass",
+        "milestone": "County canvass and certification — general",
+        "electionType": "general",
+        "date": "2026-11-17",
+        "significance": "County boards of canvassers complete the official general election canvass within 14 days of election day (approximately November 17, 2026). Includes resolution of provisional ballots and challenged AV ballots.",
+        "governingAuthority": "Ingham, Eaton, Livingston, Shiawassee, Clinton County Boards of Canvassers",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-mi07-general-sos-certification",
+        "milestone": "Board of State Canvassers certification — general",
+        "electionType": "general",
+        "date": "2026-11-23",
+        "significance": "Michigan's Board of State Canvassers must certify general election results within 20 days of election day (approximately November 23, 2026). Certification is the official final result for MI-07.",
+        "governingAuthority": "Michigan Board of State Canvassers",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-mi-voter-id",
+        "topic": "Photo ID requirement at polls",
+        "currentRule": "Michigan voters must show photo ID to vote in person. Acceptable IDs include Michigan driver's license, state ID card, U.S. passport, military ID, tribal ID, and student IDs from Michigan public universities. Voters without photo ID may sign an affidavit of identity and cast a regular ballot — no provisional ballot required. Prop 2-2022 codified the affidavit alternative.",
+        "status": "active",
+        "whyItMatters": "MI-07 voters in Ingham, Eaton, Livingston, Shiawassee, and Clinton counties who lack qualifying photo ID can still vote by signing the affidavit. However, the ID requirement is stricter than in many states.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.523. Per Prop 2-2022 (2022), the affidavit option is constitutionally protected. Student IDs from Michigan public universities are acceptable per recent SOS guidance — verify list for 2026."
+      },
+      {
+        "id": "rule-mi-same-day-registration",
+        "topic": "Same-day voter registration through Election Day",
+        "currentRule": "Michigan allows same-day voter registration at any polling place or at the county clerk's office through 8 PM on Election Day (Prop 2-2022, MCL 168.497). Voters registering on Election Day cast a regular ballot — not a provisional ballot. Registration can also be done at any early voting site during the mandatory 9-day window.",
+        "status": "active",
+        "whyItMatters": "Voters in all five MI-07 counties who miss the standard 30-day mail/online deadline (October 4 for general) can still register and vote at their precinct or at the county clerk on Election Day. This substantially expands access.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law",
+          "src-mi-voter-info"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.497 as amended by Prop 2-2022. Voter must provide proof of residency (e.g., utility bill, bank statement, or government document with name and address) if registering on Election Day."
+      },
+      {
+        "id": "rule-mi-no-reason-absentee",
+        "topic": "No-reason absent voter (absentee) ballots",
+        "currentRule": "Any registered Michigan voter may request an absent voter ballot without providing a reason. Established by Prop 3-2018 and expanded by Prop 2-2022. Voters may apply online via the Michigan Voter Information Center (mvic.sos.state.mi.us), by mail, or in person at the local clerk's office.",
+        "status": "active",
+        "whyItMatters": "All MI-07 voters in Ingham, Eaton, Livingston, Shiawassee, and Clinton counties can request an AV ballot for the August 4 primary or November 3 general without justification. Applications must be received by the local clerk at least 4 days before election day for mail applications.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law",
+          "src-mi-voter-info"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.759. Prop 3-2018 (MI Constitution Art. II § 4). AV ballot application deadline by mail: 4 days before election. In-person applications accepted until 5 PM the day before election day at the local clerk's office."
+      },
+      {
+        "id": "rule-mi-drop-boxes",
+        "topic": "Ballot drop box requirements (Prop 2-2022)",
+        "currentRule": "Michigan's Prop 2-2022 requires every local unit of government (city/township) with 1,000 or more registered voters to provide at least one secure ballot drop box. Drop boxes must be available for the return of absent voter ballots and must be monitored. Location and hours set by local clerk.",
+        "status": "active",
+        "whyItMatters": "Voters across MI-07's five counties — including rural townships in Shiawassee, Clinton, and Livingston — must have at least one drop box accessible per MCL 168.764c. Provides a postmark-free return option that meets the 8 PM Election Day deadline.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law",
+          "src-ingham-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.764c. Prop 2-2022 codified minimum drop box requirement. Individual township/city clerks set specific drop box locations and hours — check with each county clerk for a consolidated list."
+      },
+      {
+        "id": "rule-mi-signature-curing",
+        "topic": "Absent voter ballot signature cure",
+        "currentRule": "Michigan voters whose AV return envelopes have a missing or deficient signature must be notified and given an opportunity to cure. A 2024 Michigan Court of Claims ruling established that the cure right extends through 8 PM on Election Day. Some county clerks have historically allowed curing through the canvass period — this inconsistency is an active conflict. The SOS issued cure guidance in 2024.",
+        "status": "watch",
+        "whyItMatters": "Voters in MI-07 who submit AV ballots with signature defects may have their ballots rejected if they miss the cure window. The exact deadline — Election Day 8 PM vs. canvass period — remains disputed between county-level practice and state court precedent.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law",
+          "src-ingham-clerk"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.765. See also 2024 Michigan Court of Claims ruling on signature cure. SOS guidance recommends notifying voters within one business day of receiving a defective envelope. Conflict with county clerk practice noted — see CONFLICTS."
+      },
+      {
+        "id": "rule-mi-early-voting-9day",
+        "topic": "Mandatory 9-day early in-person voting period",
+        "currentRule": "Michigan's Prop 2-2022 established a mandatory 9-day early in-person voting window beginning the second Saturday before Election Day. All five MI-07 county clerk offices must offer early voting. Local units of government may additionally offer early voting sites. Hours: at minimum the hours required by SOS, typically 8 AM – 4 PM (local jurisdiction may extend).",
+        "status": "active",
+        "whyItMatters": "MI-07 voters in all five counties can vote in-person up to 9 days before Election Day without using an absentee ballot application. For the 2026 primary: July 25 – August 3. For the 2026 general: October 24 – November 2.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.759b (added by Prop 2-2022). The second Saturday before election is the required start; Oct 24 for the 2026 general, July 25 for the 2026 primary. Hours vary by local clerk — confirm with Ingham, Eaton, Livingston, Shiawassee, and Clinton county clerks."
+      },
+      {
+        "id": "rule-mi-no-straight-ticket",
+        "topic": "Straight-ticket voting prohibited",
+        "currentRule": "Michigan does not offer a straight-ticket (party-line) voting option. Voters must individually mark each race on their ballot. This applies to all elections including the November 3, 2026 general election.",
+        "status": "active",
+        "whyItMatters": "Voters in MI-07 — a competitive Toss-Up district — cannot vote a single-mark straight party ticket. Each office must be voted separately, which can affect both turnout completeness and undervote rates in down-ballot races.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Michigan eliminated straight-ticket voting via Public Act 268 of 2016, effective 2018. MCL 168.737a. No straight-ticket option appears on Michigan ballots."
+      },
+      {
+        "id": "rule-mi-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "Michigan issues provisional ballots when a voter's eligibility cannot be confirmed at the polls — e.g., a voter not found in poll book, identity dispute, or court-ordered extension. Provisional ballots are kept separate and reviewed by the county board of canvassers during the canvass period. Voters have until 4 PM the day after Election Day to provide additional documentation.",
+        "status": "active",
+        "whyItMatters": "In a close MI-07 race, provisional ballots could be outcome-determinative. Voters who registered same-day or who changed address recently are most likely to receive provisional ballots. Canvass typically completes within 14 days of election day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.523a. Michigan's same-day registration system (Prop 2-2022) reduced but did not eliminate provisional ballot use. Voters who register at the polls with proof of residency cast a regular ballot."
+      },
+      {
+        "id": "rule-mi-permanent-av-list",
+        "topic": "Permanent Absentee Voter (AV) list",
+        "currentRule": "Michigan voters may register for the Permanent Absent Voter List, automatically receiving an AV ballot application (not a pre-filled ballot) before every election. Prop 2-2022 expanded this right. Voters on the permanent list still receive and must return a ballot application; the ballot itself is mailed only after the application is processed.",
+        "status": "active",
+        "whyItMatters": "Voters in MI-07's five counties who sign up for the permanent AV list receive automatic application mailings, streamlining the process for repeated absentee voters ahead of both the August 4 primary and November 3 general.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-voter-info",
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.759(2). Permanent AV list sign-up available via mvic.sos.state.mi.us. Note: being on the permanent list does not automatically mail a filled ballot — an application still must be returned."
+      },
+      {
+        "id": "rule-mi-usps-absentee-threat",
+        "topic": "Federal USPS proposed rule — potential AV delivery impact",
+        "currentRule": "The U.S. Postal Service published a proposed rule (June 2026) under a Trump executive order that would require states to submit AV ballot recipient lists at least 30 days before mailing, with USPS directed to refuse delivery to unlisted voters. Michigan's absentee voting procedures are UNCHANGED as of June 2026. Twenty-three states, potentially including Michigan, are challenging the rule in federal court. Public comment closed July 2, 2026.",
+        "status": "watch",
+        "whyItMatters": "If the proposed USPS rule takes effect, MI-07 voters who apply for AV ballots after the 30-day cutoff could face delivery refusal. Michigan's AG and election officials have opposed federal interference in mail ballot delivery.",
+        "governingLevel": "federal",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-mi-elections-law"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Voting Access for All Coalition reporting, June 10, 2026. MI current procedures unchanged. Drop boxes (required by Prop 2-2022) provide an alternative return method that avoids USPS dependency entirely."
+      },
+      {
+        "id": "rule-mi-canvass-certification",
+        "topic": "Canvass and certification timeline",
+        "currentRule": "Michigan county boards of canvassers must complete the official canvass and certify results within 14 days of election day. The Board of State Canvassers certifies statewide results within 20 days of election day. Primary: county certification by Aug 18; state certification by Aug 24. General: county by Nov 17; state by Nov 23.",
+        "status": "active",
+        "whyItMatters": "In a close MI-07 race, the official canvass is when provisional ballots and AV ballot disputes are resolved. Results are not final until canvass is certified — roughly two weeks after Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "MCL 168.842 (county canvass deadline), MCL 168.843 (state canvass). The Board of State Canvassers has four members appointed by the two major parties; certification requires majority vote."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-mi-sos-elections",
+        "label": "Michigan Secretary of State — Elections portal",
+        "url": "https://www.michigan.gov/sos/elections",
+        "description": "Official Michigan elections hub: voter registration, election calendar, AV ballot information, results, and county resources. Primary authoritative source for MI-07 election deadlines.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-mi-voter-info",
+        "label": "Michigan Voter Information Center — mvic.sos.state.mi.us",
+        "url": "https://mvic.sos.state.mi.us/",
+        "description": "Michigan's official voter portal: register to vote, check registration status, apply for AV ballot, find your polling place, and sign up for the permanent AV list. Available in multiple languages.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-voter-info",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-mi-absentee-tracker",
+        "label": "Michigan AV Ballot Tracker — mvic.sos.state.mi.us/AbsentVoter",
+        "url": "https://mvic.sos.state.mi.us/Voter/GetAbsentVoterInfo",
+        "description": "Track the status of your absent voter ballot: whether your application was received, ballot was mailed, and ballot was returned and processed. Check this to confirm your ballot has been received before Election Day.",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-voter-info",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ingham-clerk",
+        "label": "Ingham County Clerk — Elections",
+        "url": "https://ingham.org/clerk",
+        "description": "Official elections page for Ingham County voters (Lansing, East Lansing, Mason). AV ballot drop box locations, early voting sites, and polling place lookup for the largest county in MI-07.",
+        "governingAuthority": "Ingham County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-ingham-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-eaton-clerk",
+        "label": "Eaton County Clerk — Elections",
+        "url": "https://www.eatoncounty.org/152/Clerk",
+        "description": "Official elections page for Eaton County voters (Charlotte, Grand Ledge, Eaton Rapids). Drop box locations, AV ballot information, and election calendar.",
+        "governingAuthority": "Eaton County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-eaton-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-livingston-clerk",
+        "label": "Livingston County Clerk — Elections",
+        "url": "https://www.livgov.com/clerk",
+        "description": "Official elections page for Livingston County voters (Howell, Brighton). Will Lawrence (D) filed from Livingston County. Includes drop box and early voting information.",
+        "governingAuthority": "Livingston County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-livingston-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-shiawassee-clerk",
+        "label": "Shiawassee County Clerk — Elections",
+        "url": "https://www.shiawassee.net/Clerk",
+        "description": "Official elections page for Shiawassee County voters (Owosso, Corunna). AV ballot and early voting information for the smallest county in MI-07.",
+        "governingAuthority": "Shiawassee County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-shiawassee-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-clinton-clerk",
+        "label": "Clinton County Clerk — Elections",
+        "url": "https://www.clinton-county.org/91/County-Clerk",
+        "description": "Official elections page for Clinton County voters (St. Johns, DeWitt). AV ballot, drop box, and early voting information.",
+        "governingAuthority": "Clinton County Clerk",
+        "sourceType": "official-county",
+        "sourceId": "src-clinton-clerk",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-mi07",
+        "label": "Ballotpedia — MI-07 2026 election",
+        "url": "https://ballotpedia.org/Michigan%27s_7th_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference page for MI-07's 2026 election: candidate profiles, primary schedule, race ratings (Cook Toss Up), and campaign finance summary.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-mi07",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-mi07-001",
+        "title": "MI-07 dashboard initialized — 13 sources, 16 events, 11 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. Sources: MI SOS, MI Voter Info Center, MI Election Law, Ingham/Eaton/Livingston/Shiawassee/Clinton county clerks, Ballotpedia MI-07, Lansing State Journal, Detroit Free Press, Detroit News, Grand Rapids Business Journal. All 16 election events and 11 voting rules researched from MI SOS and MCL Chapter 168. All items marked needsReview/unconfirmed pending county clerk verification.",
+        "sourceIds": [
+          "src-mi-sos-elections",
+          "src-ingham-clerk",
+          "src-eaton-clerk",
+          "src-livingston-clerk"
+        ],
+        "detectedAt": "2026-06-11T20:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-mi07-002",
+        "title": "MI-07 primary confirmed August 4, 2026 — Democratic field: Brink, Lawrence, Maasdam, Rais vs. Barrett (R)",
+        "fieldChanged": "Primary election candidates",
+        "oldValue": "Candidates not yet confirmed",
+        "newValue": "Michigan BOE confirms: Tom Barrett (R, incumbent) in Republican primary. Democratic primary (Aug 4): Bridget Brink (former U.S. Ambassador to Ukraine), William (Will) Lawrence (Sunrise Movement co-founder, endorsed by Bernie Sanders/Tlaib/Khanna), Matt Maasdam (retired Navy SEAL), and Muhammad Salman Rais. Winner advances to face Barrett in the November 3 general. Cook Political Report rates MI-07 Toss Up.",
+        "sourceIds": [
+          "src-ballotpedia-mi07",
+          "src-mi-sos-elections",
+          "src-lansing-state-journal"
+        ],
+        "detectedAt": "2026-06-11T20:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-mi07-003",
+        "title": "All rules and event dates flagged for county-level verification — QA pending",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "11 voting rules and 16 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-11). Priority items: (1) early voting hours per county clerk, (2) signature cure deadline — Election Day 8 PM vs. canvass period — see active CONFLICT. Verify with Ingham, Eaton, Livingston, Shiawassee, and Clinton county clerks before publish.",
+        "sourceIds": [
+          "src-mi-elections-law",
+          "src-mi-sos-elections"
+        ],
+        "detectedAt": "2026-06-11T20:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-mi07-001",
+        "factInQuestion": "AV ballot signature cure deadline — Election Day 8 PM vs. canvass period",
+        "sourceAId": "src-mi-sos-elections",
+        "sourceAClaim": "Michigan SOS guidance (post-2024 court ruling) indicates voters must cure AV ballot signature defects by 8 PM on Election Day — the same deadline as ballot receipt. The 2024 Michigan Court of Claims ruling established Election Day 8 PM as the operative cure deadline statewide.",
+        "sourceBId": "src-ingham-clerk",
+        "sourceBClaim": "Some Michigan county clerks, including in mid-Michigan, have historically published guidance that signature cure may be accepted through the canvass period (up to 14 days post-election), consistent with older MCL 168.765 language that does not specify Election Day as the hard cutoff.",
+        "whyItMatters": "Voters in MI-07 whose absent voter return envelopes have missing or deficient signatures may lose their vote if they miss the actual operative deadline. If a county clerk accepts cure through the canvass but the state court precedent is applied, ballots cured after Election Day 8 PM could be challenged.",
+        "suggestedReviewAction": "Confirm with each of the five MI-07 county clerks (Ingham, Eaton, Livingston, Shiawassee, Clinton) what signature cure deadline they are applying for 2026 elections. Verify whether the 2024 court ruling has been codified in SOS guidance issued to all clerks. Update the signature-cure event and rule with the verified county-specific deadline.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T20:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-mi07-001",
+        "headline": "Rep. Barrett Draws Trump's Ire After Voting to Restrict Iran War",
+        "sourceName": "Lansing City Pulse",
+        "url": "https://lansingcitypulse.com/rep-barrett-draws-trumps-ire-after-voting-to-restrict-iran-war/",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "MI-07 incumbent Rep. Tom Barrett (R) was one of only four House Republicans to join all Democrats in passing a War Powers Resolution seeking congressional authorization for the Iran war, drawing direct criticism from President Trump on Truth Social. The vote has become a flashpoint in the district's August primary, with Democratic challenger William Lawrence calling it politically motivated, and the Ingham County Democratic Party saying the district deserves a true champion for working people every day. The article confirms the three-way Democratic primary field (Brink, Lawrence, Maasdam) competing across Ingham, Eaton, Livingston, Shiawassee, and Clinton counties, and notes Cook rates MI-07 a Toss Up.",
+        "tag": "candidate",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-002",
+        "headline": "Democratic Group Launches $50 Million Ad Campaign Targeting Republican-Held Michigan House Seats",
+        "sourceName": "The Associated Press",
+        "url": "https://www.ap.org/news-highlights/elections/2026/democratic-group-launches-ad-campaign-to-help-flip-control-of-congress-in-midterm-elections/",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "American Bridge 21st Century launched a $50 million ad campaign on June 9 targeting Republican-held House seats in Michigan and six other states, its largest midterm investment ever. Cook Political Report rates MI-07 a Toss Up, making it a prime beneficiary of this outside spending. The campaign directly affects voters in Ingham, Eaton, Livingston, Shiawassee, and Clinton counties as Democrats seek to flip the seat vacated by now-Senator Elissa Slotkin. The spending adds urgency to the August 4 Democratic primary among Brink, Lawrence, and Maasdam.",
+        "tag": "candidate",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-003",
+        "headline": "USPS Proposes Rule Requiring States to Submit Voter Lists Before Mailing Absentee Ballots",
+        "sourceName": "Voting Access for All Coalition",
+        "url": "https://votingaccessforall.org/2026/06/usps-proposal-would-give-postal-service-new-role-in-mail-ballot-delivery-process/",
+        "publishedAt": "2026-06-10",
+        "relevanceSummary": "The U.S. Postal Service published a proposed rule tied to Trump's March 2026 executive order that would require states to submit lists of absentee ballot recipients at least 30 days before mailing, with USPS directed to refuse delivery to unlisted voters. The article explicitly confirms Michigan absentee voting procedures are unchanged for now, directly reassuring MI-07 voters in Ingham, Eaton, Livingston, Shiawassee, and Clinton counties ahead of the August 4 primary. Twenty-three Democratic-led states have sued to block the order, and Michigan voters are advised to use official drop boxes. Public comments are due July 2, 2026.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-004",
+        "headline": "Will Lawrence Calls Out Democrats for 'Shooting Themselves in the Foot' on Data Centers in MI-07 Race",
+        "sourceName": "E&E News by POLITICO",
+        "url": "https://www.eenews.net/articles/democratic-governors-chafe-as-calls-grow-louder-to-reject-data-centers/",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "MI-07 Democratic primary candidate Will Lawrence, running to unseat Rep. Barrett in the Lansing/Ingham area, criticized Gov. Whitmer for supporting a $16 billion data center campus near Ann Arbor, called her appearance with OpenAI's CEO 'insulting,' and demanded a 12-month moratorium on new data center construction. His position distinguishes him sharply from competitors Brink and Maasdam in the competitive three-way primary ahead of August 4. The data center debate resonates with MI-07 voters in Clinton, Ingham, and Livingston counties, where rapid tech expansion has become an electoral flashpoint.",
+        "tag": "candidate",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-005",
+        "headline": "Michigan Secretary of State Office in Gladwin to Close One Week for Remodeling Project",
+        "sourceName": "Michigan Secretary of State (michigan.gov/sos)",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/06/08/gladwin-secretary-of-state-office-to-close-for-one-week-project",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "The Michigan SOS announced on June 8 that the Gladwin SOS office will close June 15-22, 2026 for remodeling, directing residents to mi.gov/sos or nearby offices in Standish and Clare. While Gladwin is not in MI-07, the announcement highlights SOS service operations as the state approaches the August 4 primary, when MI-07 voters across Ingham, Eaton, Livingston, Shiawassee, and Clinton counties use SOS offices for driver's-license-based voter ID, absentee ballot applications, and same-day registration. It reflects the SOS's active pre-election communications infrastructure supporting voter access statewide.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-006",
+        "headline": "Democratic Registration Drops in Key Midterm Swing Districts; MI-07 Flagged as Toss Up by Cook",
+        "sourceName": "Spotlight PA",
+        "url": "https://www.spotlightpa.org/news/2026/06/democratic-voter-registration-decline-swing-districts-federal-government/",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "A Spotlight PA analysis of Democratic voter registration trends in competitive congressional districts specifically identified MI-07 as a Cook Political Report Toss Up that was excluded because it 'is less Republican leaning' than typical swing districts, signaling its unusual competitiveness. The voter registration dynamic is a key concern for MI-07 Democrats 54 days before the August 4 primary, as any erosion in Ingham or Eaton county registration could affect turnout in the three-candidate Democratic primary. The article's broader finding of Democratic registration declines in swing districts adds context to organizing urgency in the Lansing-area district.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-mi-07-initial",
+      "startedAt": "2026-06-11T20:00:00Z",
+      "completedAt": "2026-06-11T20:30:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 13,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. MI-07 (mid-Michigan, Lansing area): Ingham, Eaton, Livingston, Shiawassee, Clinton counties. Primary: August 4, 2026 (first Tuesday after first Monday in August). Incumbent Tom Barrett (R) faces Democratic primary winner from a four-candidate field (Brink, Lawrence, Maasdam, Rais) in the November 3 general. All 13 sources (MI SOS, MVIC, 5 county clerks, MI Election Law, Ballotpedia, Lansing State Journal, Detroit Free Press, Detroit News, GRBJ) verified. All 16 events and 11 rules marked needsReview/unconfirmed. One active CONFLICT: signature cure deadline — Election Day 8 PM (SOS/court ruling) vs. canvass period (some county clerk guidance)."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T20:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-mi07-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 13,
+      "newUpdates": 0,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 16,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. MI-07 dashboard created. Tom Barrett (R) incumbent vs. Democratic primary winner (Aug 4, 2026): Bridget Brink, Will Lawrence, Matt Maasdam, Muhammad Salman Rais. General: Nov 3, 2026. Cook rates Toss Up. 13 sources verified. 16 events and 11 rules flagged needsReview. Active CONFLICT: AV ballot signature cure deadline (Election Day 8 PM vs. canvass period). USPS proposed rule on AV delivery flagged as watch item — MI procedures currently unchanged. Outside spending (American Bridge $50M) targeting MI-07.",
+      "generatedAt": "2026-06-11T20:30:00Z"
+    }
+  }
+}

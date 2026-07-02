@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-06-11",
   "updatedAt": "2026-06-11T20:30:00Z",
-  "exportedAt": "2026-07-01T20:03:19.498Z",
+  "exportedAt": "2026-07-02T04:26:12.529Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -411,8 +411,8 @@
           "src-mi-sos-elections",
           "src-ballotpedia-mi07"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -491,7 +491,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "MCL 168.523. Per Prop 2-2022 (2022), the affidavit option is constitutionally protected. Student IDs from Michigan public universities are acceptable per recent SOS guidance — verify list for 2026."
       },
       {

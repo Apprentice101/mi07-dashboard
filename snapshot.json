@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-11",
-  "updatedAt": "2026-06-11T20:30:00Z",
-  "exportedAt": "2026-07-03T00:03:22.375Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:26:36.618Z",
+  "exportedAt": "2026-07-03T00:37:02.331Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -100,7 +100,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-ingham-clerk": {
@@ -880,17 +880,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-11-mi-07-initial",
-      "startedAt": "2026-06-11T20:00:00Z",
-      "completedAt": "2026-06-11T20:30:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 13,
+      "id": "run-2026-07-03-mi07-auto",
+      "startedAt": "2026-07-03T00:25:43.124Z",
+      "completedAt": "2026-07-03T00:26:36.618Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 16,
       "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 11, 2026. MI-07 (mid-Michigan, Lansing area): Ingham, Eaton, Livingston, Shiawassee, Clinton counties. Primary: August 4, 2026 (first Tuesday after first Monday in August). Incumbent Tom Barrett (R) faces Democratic primary winner from a four-candidate field (Brink, Lawrence, Maasdam, Rais) in the November 3 general. All 13 sources (MI SOS, MVIC, 5 county clerks, MI Election Law, Ballotpedia, Lansing State Journal, Detroit Free Press, Detroit News, GRBJ) verified. All 16 events and 11 rules marked needsReview/unconfirmed. One active CONFLICT: signature cure deadline — Election Day 8 PM (SOS/court ruling) vs. canvass period (some county clerk guidance)."
+      "summary": "Automated refresh completed 2026-07-03 for MI-07. Sources checked: 16. LLM verifications: 14. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T20:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:26:36.618Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

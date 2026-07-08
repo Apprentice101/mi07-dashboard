@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T01:31:17.110Z",
-  "exportedAt": "2026-07-04T00:39:37.742Z",
+  "dataAsOf": "2026-07-08",
+  "updatedAt": "2026-07-08T06:24:11.421Z",
+  "exportedAt": "2026-07-08T06:28:33.735Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -100,7 +100,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-08",
         "confidence": "high"
       },
       "src-ingham-clerk": {
@@ -880,17 +880,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-03-mi07-auto",
-      "startedAt": "2026-07-03T01:30:30.669Z",
-      "completedAt": "2026-07-03T01:31:17.110Z",
+      "id": "run-2026-07-08-mi07-auto",
+      "startedAt": "2026-07-08T06:23:45.990Z",
+      "completedAt": "2026-07-08T06:24:11.421Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
+      "sourcesChecked": 27,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for MI-07. Sources checked: 16. LLM verifications: 15. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-08 for MI-07. Sources checked: 27. LLM verifications: 19. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T01:31:17.110Z",
+    "NEXT_REFRESH_AT": "2026-07-15T06:24:11.421Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

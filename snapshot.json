@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:37:18.341Z",
-  "exportedAt": "2026-07-08T20:35:18.973Z",
+  "exportedAt": "2026-07-09T17:04:02.523Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -662,90 +662,80 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-mi-sos-elections",
-        "label": "Michigan Secretary of State — Elections portal",
-        "url": "https://www.michigan.gov/sos/elections",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Michigan elections hub: voter registration, election calendar, AV ballot information, results, and county resources. Primary authoritative source for MI-07 election deadlines.",
+        "url": "https://www.michigan.gov/sos/elections",
         "governingAuthority": "Michigan Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-mi-sos-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-mi-voter-info",
-        "label": "Michigan Voter Information Center — mvic.sos.state.mi.us",
-        "url": "https://mvic.sos.state.mi.us/",
+        "id": "res-locations",
+        "label": "Find voting locations",
         "description": "Michigan's official voter portal: register to vote, check registration status, apply for AV ballot, find your polling place, and sign up for the permanent AV list. Available in multiple languages.",
+        "url": "https://mvic.sos.state.mi.us/",
         "governingAuthority": "Michigan Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-mi-voter-info",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-mi-absentee-tracker",
-        "label": "Michigan AV Ballot Tracker — mvic.sos.state.mi.us/AbsentVoter",
-        "url": "https://mvic.sos.state.mi.us/Voter/GetAbsentVoterInfo",
-        "description": "Track the status of your absent voter ballot: whether your application was received, ballot was mailed, and ballot was returned and processed. Check this to confirm your ballot has been received before Election Day.",
-        "governingAuthority": "Michigan Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-mi-voter-info",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-ingham-clerk",
-        "label": "Ingham County Clerk — Elections",
-        "url": "https://ingham.org/clerk",
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
         "description": "Official elections page for Ingham County voters (Lansing, East Lansing, Mason). AV ballot drop box locations, early voting sites, and polling place lookup for the largest county in MI-07.",
+        "url": "https://ingham.org/clerk",
         "governingAuthority": "Ingham County Clerk",
         "sourceType": "official-county",
         "sourceId": "src-ingham-clerk",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-eaton-clerk",
-        "label": "Eaton County Clerk — Elections",
-        "url": "https://www.eatoncounty.org/152/Clerk",
-        "description": "Official elections page for Eaton County voters (Charlotte, Grand Ledge, Eaton Rapids). Drop box locations, AV ballot information, and election calendar.",
-        "governingAuthority": "Eaton County Clerk",
-        "sourceType": "official-county",
-        "sourceId": "src-eaton-clerk",
-        "lastVerified": "2026-06-11"
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Michigan's official voter portal: register to vote, check registration status, apply for AV ballot, find your polling place, and sign up for the permanent AV list. Available in multiple languages.",
+        "url": "https://mvic.sos.state.mi.us/",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-voter-info",
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-livingston-clerk",
-        "label": "Livingston County Clerk — Elections",
-        "url": "https://www.livgov.com/clerk",
-        "description": "Official elections page for Livingston County voters (Howell, Brighton). Will Lawrence (D) filed from Livingston County. Includes drop box and early voting information.",
-        "governingAuthority": "Livingston County Clerk",
-        "sourceType": "official-county",
-        "sourceId": "src-livingston-clerk",
-        "lastVerified": "2026-06-11"
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track the status of your absent voter ballot: whether your application was received, ballot was mailed, and ballot was returned and processed. Check this to confirm your ballot has been received before Election Day.",
+        "url": "https://mvic.sos.state.mi.us/Voter/GetAbsentVoterInfo",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-voter-info",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Michigan election results and data.",
+        "url": "https://www.michigan.gov/sos/elections/election-results-and-data",
+        "governingAuthority": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-mi-sos",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-shiawassee-clerk",
         "label": "Shiawassee County Clerk — Elections",
-        "url": "https://www.shiawassee.net/Clerk",
         "description": "Official elections page for Shiawassee County voters (Owosso, Corunna). AV ballot and early voting information for the smallest county in MI-07.",
+        "url": "https://www.shiawassee.net/Clerk",
         "governingAuthority": "Shiawassee County Clerk",
         "sourceType": "official-county",
         "sourceId": "src-shiawassee-clerk",
         "lastVerified": "2026-06-11"
       },
       {
-        "id": "res-clinton-clerk",
-        "label": "Clinton County Clerk — Elections",
-        "url": "https://www.clinton-county.org/91/County-Clerk",
-        "description": "Official elections page for Clinton County voters (St. Johns, DeWitt). AV ballot, drop box, and early voting information.",
-        "governingAuthority": "Clinton County Clerk",
-        "sourceType": "official-county",
-        "sourceId": "src-clinton-clerk",
-        "lastVerified": "2026-06-11"
-      },
-      {
         "id": "res-ballotpedia-mi07",
         "label": "Ballotpedia — MI-07 2026 election",
-        "url": "https://ballotpedia.org/Michigan%27s_7th_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for MI-07's 2026 election: candidate profiles, primary schedule, race ratings (Cook Toss Up), and campaign finance summary.",
+        "url": "https://ballotpedia.org/Michigan%27s_7th_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-mi07",

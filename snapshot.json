@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:37:18.341Z",
-  "exportedAt": "2026-07-09T17:04:02.523Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:23:34.879Z",
+  "exportedAt": "2026-07-15T06:39:54.715Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -867,20 +867,60 @@
         "relevanceSummary": "A Spotlight PA analysis of Democratic voter registration trends in competitive congressional districts specifically identified MI-07 as a Cook Political Report Toss Up that was excluded because it 'is less Republican leaning' than typical swing districts, signaling its unusual competitiveness. The voter registration dynamic is a key concern for MI-07 Democrats 54 days before the August 4 primary, as any erosion in Ingham or Eaton county registration could affect turnout in the three-candidate Democratic primary. The article's broader finding of Democratic registration declines in swing districts adds context to organizing urgency in the Lansing-area district.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0af491t",
+        "headline": "William Lawrence is betting Michigan's 7th Congressional District is ready for a fight",
+        "sourceName": "Gander Newsroom",
+        "url": "https://gandernewsroom.com/news/elections/william-lawrence-is-betting-michigans-7th-congressional-district-is-ready-for-a-fight/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "This piece on the MI-07 congressional race includes key election information for district voters, highlighting the August 4, 2026 primary and November 3, 2026 general election dates and directing readers to confirm their voter registration status.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-066btaf",
+        "headline": "Ending water shutoffs, selling city land and more on mid-Michigan ballots",
+        "sourceName": "WKAR",
+        "url": "https://www.wkar.org/election-2026/2026-07-09/ending-water-shutoffs-selling-city-land-and-more-on-mid-michigan-ballots",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "This mid-Michigan election guide explains statewide voter registration deadlines, early in-person voting dates, absentee ballot mailing recommendations, use of drop boxes, and polling hours for the August 4, 2026 election, all of which apply directly to voters in MI-07.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0mu0y7r",
+        "headline": "Michigan Election Court Update: Current Voting Procedures Remain in Place",
+        "sourceName": "Voting Access For All",
+        "url": "https://votingaccessforall.org/2026/07/michigan-election-court-update-current-voting-procedures-remain-in-place/",
+        "publishedAt": "2026-07-08",
+        "relevanceSummary": "This article summarizes recent court decisions and federal litigation affecting Michigan’s voter registration rules, absentee ballot handling, military and overseas ballot deadlines, and voter file privacy, clarifying that existing Michigan voting procedures remain unchanged for all voters, including those in MI-07.[2]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0kxnaxa",
+        "headline": "Notice of Primary Election",
+        "sourceName": "City of Trenton",
+        "url": "https://www.trentonmi.org/CivicAlerts.aspx?AID=543",
+        "publishedAt": "2026-07-01",
+        "relevanceSummary": "This official notice outlines polling place locations, accessible voting information, and the new nine-day early in-person voting period and hours for the August primary in Trenton, illustrating how Michigan’s early voting procedures are implemented at the local level.[4]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-mi07-auto",
-      "startedAt": "2026-07-08T19:36:55.640Z",
-      "completedAt": "2026-07-08T19:37:18.341Z",
+      "id": "run-2026-07-15-mi07-auto",
+      "startedAt": "2026-07-15T06:22:30.554Z",
+      "completedAt": "2026-07-15T06:23:34.879Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 27,
-      "updatesCreated": 0,
+      "sourcesChecked": 12,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for MI-07. Sources checked: 27. LLM verifications: 18. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:37:18.341Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:23:34.879Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:23:34.879Z",
-  "exportedAt": "2026-07-15T06:39:54.715Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:34:48.714Z",
+  "exportedAt": "2026-07-22T06:51:16.229Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -907,20 +907,40 @@
         "relevanceSummary": "This official notice outlines polling place locations, accessible voting information, and the new nine-day early in-person voting period and hours for the August primary in Trenton, illustrating how Michigan’s early voting procedures are implemented at the local level.[4]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-01p0qm7",
+        "headline": "Michigan's upcoming Aug. 4 primary: What's on my ballot?",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/2026/07/17/a-guide-to-the-michigan-races-on-your-primary-ballot/90930793007/",
+        "publishedAt": "2026-07-17",
+        "relevanceSummary": "This statewide guide explains how Michigan voters, including those in MI-07, can request absentee ballots, key deadlines for returning them, the early-voting window (July 25–Aug. 2), and Election Day polling hours and location lookup, providing practical instructions on voting procedures for the August 4 primary.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-05lpqd1",
+        "headline": "League of Women Voters host virtual forum with District 7 candidates",
+        "sourceName": "The State News",
+        "url": "https://statenews.com/article/2026/07/league-of-women-voters-host-virtual-forum-with-district-7-canidates",
+        "publishedAt": "2026-07-12",
+        "relevanceSummary": "This article notes that primaries for Michigan’s 7th Congressional District will take place on Tuesday, Aug. 4, 2026, reinforcing the primary schedule and providing MI‑07 voters with district‑specific timing for when their ballots, polling places, and candidate choices will be in effect.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-mi07-auto",
-      "startedAt": "2026-07-15T06:22:30.554Z",
-      "completedAt": "2026-07-15T06:23:34.879Z",
+      "id": "run-2026-07-22-mi07-auto",
+      "startedAt": "2026-07-22T06:33:46.233Z",
+      "completedAt": "2026-07-22T06:34:48.714Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
-      "updatesCreated": 4,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:23:34.879Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:34:48.714Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

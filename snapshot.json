@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:34:48.714Z",
-  "exportedAt": "2026-07-22T21:16:18.873Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:38:13.679Z",
+  "exportedAt": "2026-07-29T06:54:47.487Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -927,20 +927,90 @@
         "relevanceSummary": "This article notes that primaries for Michigan’s 7th Congressional District will take place on Tuesday, Aug. 4, 2026, reinforcing the primary schedule and providing MI‑07 voters with district‑specific timing for when their ballots, polling places, and candidate choices will be in effect.[2]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-04zu1ks",
+        "headline": "Trump-backed SAVE Act is newest effort to collect private ...",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/trump-backed-save-act-newest-effort-collect-private/story?id=135030149",
+        "publishedAt": "2026-07-26",
+        "relevanceSummary": "This report says the SAVE Act would require voter ID at the ballot box and proof of citizenship to register, which would alter election procedures for Michigan voters if adopted. It is relevant to MI-07 because statewide federal election rules would apply to district voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0enlc2l",
+        "headline": "7th District Dem House race heats up as early vote starts, ads persist",
+        "sourceName": "Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/07/25/michigan-congress-7th-district-will-lawrence-matt-maasdam-bridget-brink/91050154007/",
+        "publishedAt": "2026-07-25",
+        "relevanceSummary": "This article is directly about MI-07 and notes that early voting runs from Saturday through Sunday, Aug. 2, ahead of the Aug. 4 primary. That affects when district voters can cast ballots in person and when election procedures are active locally.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0wl6ra0",
+        "headline": "Republican Lawmakers Make Another Push to Pass SAVE Act",
+        "sourceName": "WJR",
+        "url": "https://www.wjr.com/2026/07/24/republican-lawmakers-make-another-push-to-pass-save-act/",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This story reports on renewed federal voter-ID and proof-of-citizenship requirements being pushed in Congress. While it is not yet law, it is directly relevant to Michigan voters because any federal voter-ID change would affect MI-07 voters in federal elections if enacted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-049xc5r",
+        "headline": "Some Democrats help GOP pass voter ID bill as others call it a 'trick'",
+        "sourceName": "USA Today",
+        "url": "https://www.usatoday.com/story/news/politics/2026/07/22/house-republicans-congress-voter-id-stock-trading/91012432007/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This article reports the House approval of a federal voter-ID bill and says it faces a difficult path in the Senate. It matters to MI-07 voters because it concerns a proposed nationwide voting rule that would affect Michigan if it becomes law.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0uw1iut",
+        "headline": "House passes bill that would ban members from buying stock",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/house-passes-bill-ban-members-buying-stock/story?id=135001297",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This report says the House-passed bill would require voters to show photo ID for federal elections and allow mail-in or absentee voters to attach a photocopy of their ID. Even though it is not law, it is relevant to Michigan voters because it could change ballot and ID procedures if enacted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0sdyu9k",
+        "headline": "Voting Rights Groups: Flawed Documentary Proof of Citizenship Policy Would Prevent Eligible Michiganders from Casting a Ballot",
+        "sourceName": "ACLU of Michigan",
+        "url": "https://www.aclumich.org/press-releases/voting-rights-groups-flawed-documentary-proof-of-citizenship-policy-would-prevent-eligible-michiganders-from-casting-a-ballot/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This Michigan-focused press release says a proposed documentary proof-of-citizenship policy would require documents such as a certified birth certificate or passport and could block eligible voters from registering. Because it concerns statewide Michigan election rules, it is directly relevant to MI-07 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0qb8xyd",
+        "headline": "Action Alert: Tell the Senate to Reject Strict Federal Voter ID Requirements",
+        "sourceName": "Voting Access for All",
+        "url": "https://votingaccessforall.org/2026/07/action-alert-tell-the-senate-to-reject-strict-federal-voter-id-requirements/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This item explains that the House-passed federal voter-ID proposal is not law and says Michigan voters can still follow current state rules. It also describes proposed acceptable IDs and mail-ballot copy requirements, which are directly relevant if the bill advances.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-mi07-auto",
-      "startedAt": "2026-07-22T06:33:46.233Z",
-      "completedAt": "2026-07-22T06:34:48.714Z",
+      "id": "run-2026-07-29-mi07-auto",
+      "startedAt": "2026-07-29T06:37:20.137Z",
+      "completedAt": "2026-07-29T06:38:13.679Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
-      "updatesCreated": 2,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for MI-07. Sources checked: 12. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:34:48.714Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:38:13.679Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

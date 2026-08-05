@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:38:13.679Z",
-  "exportedAt": "2026-07-29T06:54:47.487Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:32:03.401Z",
+  "exportedAt": "2026-08-05T06:48:28.654Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -997,20 +997,80 @@
         "relevanceSummary": "This item explains that the House-passed federal voter-ID proposal is not law and says Michigan voters can still follow current state rules. It also describes proposed acceptable IDs and mail-ballot copy requirements, which are directly relevant if the bill advances.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0xcddtk",
+        "headline": "Officials respond after DOJ sends election monitoring letters to Detroit, Lansing, East Lansing",
+        "sourceName": "YouTube (broadcast news segment)",
+        "url": "https://www.youtube.com/watch?v=BHSCe1sNVpU",
+        "publishedAt": "2026-07-26",
+        "relevanceSummary": "Michigan’s Secretary of State and Attorney General react to DOJ letters seeking election-related documents from several municipalities, discussing how state officials handle federal inquiries and protect voting processes—information relevant to understanding election administration practices that also govern MI-07.[7]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0bncf2v",
+        "headline": "DOJ to send election monitors to Michigan’s August primary",
+        "sourceName": "YouTube (broadcast news segment)",
+        "url": "https://www.youtube.com/watch?v=HjBQhWIdk2o",
+        "publishedAt": "2026-07-25",
+        "relevanceSummary": "This broadcast segment reports that the U.S. Department of Justice will deploy election monitors to Michigan’s August primary, indicating unusual federal oversight that could affect how election workers and local officials manage polling places and ballot procedures statewide, including in MI-07.[5]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0rpqi3p",
+        "headline": "Early voting in Michigan's August primary: how to vote early and check registration",
+        "sourceName": "Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/07/24/how-to-vote-early-and-check-registration-for-michigans-august-primary/91023718007/",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This piece explains statewide early voting procedures, how Michigan voters—including MI-07 residents—can check their registration, and clarifies that voters without photo ID may still cast a ballot by signing an affidavit, detailing practical identification rules for in‑person voting.[8]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-03z19xj",
+        "headline": "Two weeks before August Primary Election, Michigan voters reminded of key deadlines and voting options",
+        "sourceName": "Michigan Secretary of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/07/21/two-weeks-before-august-primary-election",
+        "publishedAt": "2026-07-21",
+        "relevanceSummary": "Michigan’s Secretary of State outlines how all Michigan voters—including those in MI-07—can check voter registration, track absentee/mail ballots, and find early voting sites and drop boxes via the state’s official portal, as well as key timing and procedural information for the August primary.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0yyim51",
+        "headline": "Registering to vote: Michigan primary election deadlines and how to check your status",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/07/18/registering-to-vote-michigan-primary-election-deadlines-check-status/90928950007/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "This statewide explainer details registration deadlines and methods—online, by mail, and in person—and how Michigan voters can confirm their registration with the Secretary of State, providing MI-07 voters with actionable information to ensure they are eligible to participate in upcoming elections.[6]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0q67vz7",
+        "headline": "Oakland County Board of Commissioners joins local opposition to citizen-only voting initiative",
+        "sourceName": "Michigan Advance",
+        "url": "https://michiganadvance.com/2026/07/16/oakland-county-board-of-commissioners-joins-local-opposition-to-citizen-only-voting-initiative/",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "The article describes a proposed statewide ballot initiative that would enact stricter voter ID rules and new voter roll verification requirements in Michigan, including mandatory photo ID to cast a ballot—changes that would directly alter voting procedures and identification rules for MI-07 voters if adopted.[1]",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-mi07-auto",
-      "startedAt": "2026-07-29T06:37:20.137Z",
-      "completedAt": "2026-07-29T06:38:13.679Z",
+      "id": "run-2026-08-05-mi07-auto",
+      "startedAt": "2026-08-05T06:30:58.806Z",
+      "completedAt": "2026-08-05T06:32:03.401Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
-      "updatesCreated": 7,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for MI-07. Sources checked: 12. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:38:13.679Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:32:03.401Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

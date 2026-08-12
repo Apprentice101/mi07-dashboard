@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:32:03.401Z",
-  "exportedAt": "2026-08-05T06:48:28.654Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:33:56.079Z",
+  "exportedAt": "2026-08-12T05:47:56.383Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -1057,20 +1057,60 @@
         "relevanceSummary": "The article describes a proposed statewide ballot initiative that would enact stricter voter ID rules and new voter roll verification requirements in Michigan, including mandatory photo ID to cast a ballot—changes that would directly alter voting procedures and identification rules for MI-07 voters if adopted.[1]",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-071pud0",
+        "headline": "Michigan Voter Guide",
+        "sourceName": "WXYZ",
+        "url": "https://www.wxyz.com/michiganvoterguide",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "This voter guide explains Michigan absentee-ballot request deadlines, polling hours, ID rules, and ballot-spoiling procedures that apply directly to MI-07 voters because Michigan’s statewide election rules govern congressional-district voting. It also notes that voters without valid ID can still vote by signing an affidavit, which is directly relevant to in-person voting in November.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0omwm6k",
+        "headline": "Which Michigan primaries did progressive candidates win?",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/2026/08/06/which-progressives-won-michigan-primary-election/91097933007/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "The Free Press reports that William Lawrence won the MI-07 primary, identifying the district’s Democratic nominee for November. That is useful to MI-07 voters because ballot composition and candidate qualification for the general election are directly affected by the primary outcome.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-05lavrl",
+        "headline": "Lawrence the victor in 7th District Democratic Primary",
+        "sourceName": "The Oakland Press",
+        "url": "https://www.theoaklandpress.com/2026/08/06/lawrence-the-victor-in-7th-district-democratic-primary/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This article reports William Lawrence’s victory in Michigan’s 7th Congressional District Democratic primary, setting up the November general election in MI-07. While it is mainly a results story, it is directly relevant to voters tracking the ballot that will appear in November.",
+        "tag": "results",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0x90n7o",
+        "headline": "Action Alert: Tell the Senate to Reject Strict Federal Voter ID Requirements",
+        "sourceName": "Voting Access for All",
+        "url": "https://votingaccessforall.org/2026/08/action-alert-tell-the-senate-to-reject-strict-federal-voter-id-requirements/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "The article says a federal photo-ID bill passed the U.S. House on July 22 but is not law, so it does not change current Michigan voting procedures. It also restates that Michigan voters can still vote in person without a photo ID by signing an affidavit, which matters for MI-07 voters watching possible federal voter-ID changes.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-mi07-auto",
-      "startedAt": "2026-08-05T06:30:58.806Z",
-      "completedAt": "2026-08-05T06:32:03.401Z",
+      "id": "run-2026-08-12-mi07-auto",
+      "startedAt": "2026-08-12T05:32:59.943Z",
+      "completedAt": "2026-08-12T05:33:56.079Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
-      "updatesCreated": 6,
+      "sourcesChecked": 13,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for MI-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:32:03.401Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:33:56.079Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

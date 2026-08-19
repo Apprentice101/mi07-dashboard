@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:33:56.079Z",
-  "exportedAt": "2026-08-12T05:47:56.383Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:46:58.367Z",
+  "exportedAt": "2026-08-19T05:08:01.180Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-mi-elections-law": {
@@ -1097,20 +1097,100 @@
         "relevanceSummary": "The article says a federal photo-ID bill passed the U.S. House on July 22 but is not law, so it does not change current Michigan voting procedures. It also restates that Michigan voters can still vote in person without a photo ID by signing an affidavit, which matters for MI-07 voters watching possible federal voter-ID changes.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0c27ofd",
+        "headline": "Michigan lawmakers answer election security questions in town hall forum",
+        "sourceName": "CBS News Detroit",
+        "url": "https://www.cbsnews.com/detroit/news/michigan-lawmakers-answer-election-security-questions-in-town-hall-forum/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "The article says Michigan absentee ballots can be returned by mail, in person, or at a ballot drop box, and advises voters to mail ballots early and confirm receipt. That is directly useful to MI-07 voters because it explains current statewide absentee-ballot procedures.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0xfnezp",
+        "headline": "Ann Arbor area legislators, election officials respond to election security concerns at town hall",
+        "sourceName": "Michigan Advance",
+        "url": "https://michiganadvance.com/2026/08/18/ann-arbor-area-legislators-election-officials-respond-to-election-security-concerns-at-town-hall/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Election officials discussed how absentee ballots are verified, including signature checks against the voter’s file. Even though the event was local to Washtenaw County, the signature-verification process is statewide and matters to MI-07 voters using absentee ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0wn9p1a",
+        "headline": "Appeals court again rejects DOJ bid for Michigan voter data with personal information",
+        "sourceName": "MLive",
+        "url": "https://www.mlive.com/politics/2026/08/appeals-court-again-rejects-doj-bid-for-michigan-voter-data-with-personal-information.html",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "A federal appellate court again refused to force Michigan to disclose the full unredacted voter-registration file, leaving the state’s current voter-data protections in place. That matters to MI-07 voters because it affects statewide election administration and how Michigan handles voter-registration records used in election oversight.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0ah0cva",
+        "headline": "Appeals court denies Trump administration request to reconsider Michigan voter rolls case",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026-08-14/appeals-court-denies-trump-administration-request-to-reconsider-michigan-voter-rolls-case",
+        "publishedAt": "2026-08-15",
+        "relevanceSummary": "The Sixth Circuit declined to revisit a ruling that Michigan does not have to release its full, unredacted voter rolls. For MI-07 voters, this is a statewide election-administration ruling that affects how voter-registration records are protected and used across Michigan.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0g8qqhe",
+        "headline": "Michigan judge disqualified from ballot due to campaign finance discrepancy, court rules",
+        "sourceName": "Legal News Feed",
+        "url": "https://legalnewsfeed.com/2026/08/14/michigan-judge-disqualified-from-ballot-due-to-campaign-finance-discrepancy-court-rules/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "A Michigan court ruled a judicial candidate was disqualified from the ballot after an affidavit of identity allegedly misstated campaign-finance compliance. This is relevant to MI-07 voters because it concerns Michigan ballot-access rules and candidate qualification procedures for the general election.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0p1a8r6",
+        "headline": "Federal Court Blocks Mail Voting Executive Order Nationwide as Supreme Court Review Continues",
+        "sourceName": "Voting Access for All",
+        "url": "https://votingaccessforall.org/2026/08/federal-court-blocks-mail-voting-executive-order-nationwide-as-supreme-court-review-continues/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "The article states that Michigan’s current absentee-voting rules remain unchanged and summarizes how voters request, return, and track absentee ballots. Although framed around federal litigation, the Michigan-specific guidance is directly relevant to MI-07 voters.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0i4mfjo",
+        "headline": "What Happens After Election Day? Michigan's County Canvass Is Underway",
+        "sourceName": "Voting Access for All",
+        "url": "https://votingaccessforall.org/2026/08/what-happens-after-election-day-michigans-county-canvass-is-underway/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This explainer describes Michigan’s county canvass process, including post-election reconciliation of poll-book records, statements of votes, and sealed ballot materials. MI-07 voters may want this because county canvass procedures are part of how Michigan certifies election results statewide.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0ii2uyz",
+        "headline": "AG Nessel Announces Charges Against 5 Non-Citizens for Voting in 2024 Elections in Michigan",
+        "sourceName": "Michigan Attorney General",
+        "url": "https://www.michigan.gov/ag/news/press-releases/2026/08/13/ag-nessel-announces-charges-against-5-non-citizens-for-voting-in-2024-elections-in-michigan",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Michigan’s attorney general said voter registrations tied to identified non-citizens were cancelled after charges were filed. This is relevant to MI-07 voters because it reflects statewide enforcement and voter-registration administration that can affect election procedures and public trust.",
+        "tag": "security",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-mi07-auto",
-      "startedAt": "2026-08-12T05:32:59.943Z",
-      "completedAt": "2026-08-12T05:33:56.079Z",
+      "id": "run-2026-08-19-mi07-auto",
+      "startedAt": "2026-08-19T04:45:36.223Z",
+      "completedAt": "2026-08-19T04:46:58.367Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
-      "updatesCreated": 4,
+      "sourcesChecked": 12,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for MI-07. Sources checked: 13. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for MI-07. Sources checked: 12. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:33:56.079Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:46:58.367Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:46:58.367Z",
-  "exportedAt": "2026-08-19T05:08:01.180Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:51:59.995Z",
+  "exportedAt": "2026-08-26T05:15:57.864Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -1177,20 +1177,100 @@
         "relevanceSummary": "Michigan’s attorney general said voter registrations tied to identified non-citizens were cancelled after charges were filed. This is relevant to MI-07 voters because it reflects statewide enforcement and voter-registration administration that can affect election procedures and public trust.",
         "tag": "security",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0sqsk9a",
+        "headline": "The Markup: NC gov signs, vetoes bills; federal legal fights escalate",
+        "sourceName": "Voting Rights Lab",
+        "url": "https://votingrightslab.org/2026/08/24/the-markup-nc-gov-signs-vetoes-bills-federal-legal-fights-escalate/",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This national elections roundup notes that Michigan’s Bureau of Elections found a citizens‑only voting and stricter voter ID proposal likely fell short on valid signatures and that the Board of State Canvassers will decide whether it makes the ballot, a statewide ballot‑access decision that would determine if MI-07 voters see this measure and whether voter ID rules change in the future.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0i52oej",
+        "headline": "Michigan voter ID question narrowly misses ballot, lawsuit likely",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026-08-24/michigan-voter-id-question-narrowly-misses-ballot-lawsuit-likely",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This report explains that a proposed statewide voter ID and election rules constitutional amendment narrowly failed to qualify for the November ballot and may be challenged in court, signaling that MI-07 voters will likely face current voter ID rules in 2026 unless litigation changes ballot access.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0co7csp",
+        "headline": "LISTEN: Michigan’s race for governor takes shape as voter ID proposal hits a hurdle",
+        "sourceName": "WKAR",
+        "url": "https://www.wkar.org/election-2026/2026-08-21/listen-michigans-race-for-governor-takes-shape-as-voter-id-proposal-hits-a-hurdle",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This broadcast segment discusses how a statewide voter ID and elections proposal failed to gather enough valid signatures, describing the procedural hurdle it faces before potentially reaching the November ballot, information that helps MI-07 voters understand whether and how future voter ID rules could change.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0yhdl1h",
+        "headline": "Bureau of Elections: Citizens-only voting group short of signatures",
+        "sourceName": "EUP News",
+        "url": "https://www.eupnews.com/2026/08/bureau-of-elections-citizens-only-voting-group-short-of-signatures/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This article describes a Michigan Bureau of Elections staff report finding that a constitutional amendment to restrict voting to citizens and require all voters to show ID fell short of the signatures needed to qualify for the ballot, meaning MI-07 voters are unlikely to vote on this proposal in November unless election officials or courts reverse that assessment.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0bocqzw",
+        "headline": "6 key dates to know in Michigan’s 2026 midterm elections",
+        "sourceName": "Gander Newsroom",
+        "url": "https://gandernewsroom.com/news/elections/key-dates-2026-midterm-elections/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This piece lists critical statewide deadlines for absentee ballot requests and returns, Election Day polling hours, and same‑day registration rules through 8 p.m. on Election Day, which directly govern when MI-07 voters must act to register, request, and return absentee ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-04xpaw9",
+        "headline": "Everything you need to know about voting in Michigan",
+        "sourceName": "Gander Newsroom",
+        "url": "https://gandernewsroom.com/news/elections/the-first-timers-guide-to-voting-in-michigan/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This article provides up-to-date statewide guidance on registering, voting absentee, ballot-return deadlines, and in‑person voting rules, including that Michigan voters are asked for photo ID but can vote by signing an affidavit if they lack ID; MI-07 voters follow these same procedures in 2026.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0y6gr4d",
+        "headline": "Michigan's election: Here's how your ballot stays secure",
+        "sourceName": "Gander Newsroom",
+        "url": "https://gandernewsroom.com/news/elections/michigan-election-security/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This statewide explainer details Michigan’s current rules for voter registration, absentee ballot issuance, and ballot drop box requirements, including ID and information requirements for registering online, by mail, or in person, and the security and availability standards for absentee drop boxes; all of these rules apply directly to MI-07 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0htk4oz",
+        "headline": "State: Voter citizenship proposal shouldn't make Michigan ballot",
+        "sourceName": "Iron Mountain Daily News",
+        "url": "https://www.ironmountaindailynews.com/news/local-news/2026/08/state-voter-citizenship-proposal-shouldnt-make-michigan-ballot/",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This piece explains that state officials recommend against certifying a voter‑citizenship and stricter voter ID proposal for the November ballot and notes the measure would have eliminated the affidavit option for voters without ID, a direct potential change to in‑person voter ID procedures for MI-07 voters if the proposal ever reaches the ballot.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-mi07-auto",
-      "startedAt": "2026-08-19T04:45:36.223Z",
-      "completedAt": "2026-08-19T04:46:58.367Z",
+      "id": "run-2026-08-26-mi07-auto",
+      "startedAt": "2026-08-26T04:50:00.570Z",
+      "completedAt": "2026-08-26T04:51:59.995Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for MI-07. Sources checked: 12. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for MI-07. Sources checked: 12. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:46:58.367Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:51:59.995Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

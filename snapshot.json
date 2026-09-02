@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:51:59.995Z",
-  "exportedAt": "2026-08-26T05:15:57.864Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:39:05.647Z",
+  "exportedAt": "2026-09-02T09:09:46.575Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -1260,17 +1260,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-mi07-auto",
-      "startedAt": "2026-08-26T04:50:00.570Z",
-      "completedAt": "2026-08-26T04:51:59.995Z",
+      "id": "run-2026-09-02-mi07-auto",
+      "startedAt": "2026-09-02T08:36:38.803Z",
+      "completedAt": "2026-09-02T08:39:05.647Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
-      "updatesCreated": 8,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for MI-07. Sources checked: 12. LLM verifications: 13. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:51:59.995Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:39:05.647Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

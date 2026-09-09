@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:39:05.647Z",
-  "exportedAt": "2026-09-02T09:09:46.575Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:52:57.828Z",
+  "exportedAt": "2026-09-09T09:20:07.248Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -100,7 +100,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ingham-clerk": {
@@ -1260,17 +1260,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-mi07-auto",
-      "startedAt": "2026-09-02T08:36:38.803Z",
-      "completedAt": "2026-09-02T08:39:05.647Z",
+      "id": "run-2026-09-09-mi07-auto",
+      "startedAt": "2026-09-09T08:50:18.230Z",
+      "completedAt": "2026-09-09T08:52:57.828Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for MI-07. Sources checked: 12. LLM verifications: 14. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for MI-07. Sources checked: 12. LLM verifications: 14. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:39:05.647Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:52:57.828Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

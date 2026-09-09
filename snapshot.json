@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-09-09",
   "updatedAt": "2026-09-09T08:52:57.828Z",
-  "exportedAt": "2026-09-09T09:20:07.248Z",
+  "exportedAt": "2026-09-09T20:50:48.855Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -100,6 +100,43 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-09-09",
+        "confidence": "high"
+      },
+      "src-mi-sos-vote-on-election-day": {
+        "id": "src-mi-sos-vote-on-election-day",
+        "name": "Michigan Secretary of State — Vote on Election Day",
+        "short": "MI SOS Vote on Election Day",
+        "url": "https://www.michigan.gov/sos/elections/voting/vote-on-election-day",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-09-09",
+        "lastVerified": "2026-09-09",
+        "confidence": "high",
+        "notes": "Authoritative statewide guidance stating 'Photo ID is not a requirement to vote in Michigan.' Lists the acceptable photo IDs and describes the affidavit path for voters without ID (regular ballot, no provisional)."
+      },
+      "src-mi-sos-voter-id-flyer": {
+        "id": "src-mi-sos-voter-id-flyer",
+        "name": "Michigan SOS — Voter ID Flyer (PDF)",
+        "short": "MI SOS Voter ID Flyer",
+        "url": "https://www.michigan.gov/-/media/Project/Websites/sos/05mcalpine/photo_id_flyer.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-09-09",
+        "lastVerified": "2026-09-09",
+        "confidence": "high"
+      },
+      "src-mi-sos-affidavit-pdf": {
+        "id": "src-mi-sos-affidavit-pdf",
+        "name": "Michigan SOS — Affidavit of Voter Not in Possession of Picture Identification (PDF)",
+        "short": "MI SOS ID Affidavit",
+        "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Elections/Election-transparency/Affidavit-of-Voter-not-in-Possession-of-Picture-Identification.pdf",
+        "publisher": "Michigan Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-09-09",
         "lastVerified": "2026-09-09",
         "confidence": "high"
       },
@@ -480,19 +517,22 @@
     "RULES": [
       {
         "id": "rule-mi-voter-id",
-        "topic": "Photo ID requirement at polls",
-        "currentRule": "Michigan voters must show photo ID to vote in person. Acceptable IDs include Michigan driver's license, state ID card, U.S. passport, military ID, tribal ID, and student IDs from Michigan public universities. Voters without photo ID may sign an affidavit of identity and cast a regular ballot — no provisional ballot required. Prop 2-2022 codified the affidavit alternative.",
+        "topic": "Voter ID requirement with no-ID affidavit alternative",
+        "currentRule": "Photo ID is NOT a requirement to vote in Michigan. Every voter voting in person (Election Day or early voting) may either show a photo ID or sign the \"Affidavit of Voter Not in Possession of Picture Identification\" to receive a regular ballot. No voter is turned away or forced onto a provisional ballot solely for lacking ID; once the affidavit is signed, the ballot is counted with all other ballots. Acceptable photo IDs (for voters who choose to present one) include a Michigan or out-of-state driver's license or state ID; a federal, state, county, or local government-issued photo ID; a U.S. passport; a military photo ID card; an educational institution ID; a tribal photo ID card; and a Michigan concealed pistol license.",
         "status": "active",
-        "whyItMatters": "MI-07 voters in Ingham, Eaton, Livingston, Shiawassee, and Clinton counties who lack qualifying photo ID can still vote by signing the affidavit. However, the ID requirement is stricter than in many states.",
+        "whyItMatters": "MI-07 voters across Ingham, Eaton, Livingston, Shiawassee, and Clinton counties who lack an accepted photo ID can still vote a regular ballot by signing the affidavit — this is a constitutional right under Proposal 2 of 2022 and cannot be overridden by ordinary legislation. Framing MI's rule as 'photo ID required' is inaccurate and risks discouraging eligible voters.",
         "governingLevel": "statewide",
         "sourceIds": [
+          "src-mi-sos-vote-on-election-day",
+          "src-mi-sos-voter-id-flyer",
+          "src-mi-sos-affidavit-pdf",
           "src-mi-sos-elections",
           "src-mi-elections-law"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-09-09",
         "needsReview": false,
-        "detail": "MCL 168.523. Per Prop 2-2022 (2022), the affidavit option is constitutionally protected. Student IDs from Michigan public universities are acceptable per recent SOS guidance — verify list for 2026."
+        "detail": "Authority: Michigan SOS 'Vote on Election Day' guidance, which states verbatim: 'Photo ID is not a requirement to vote in Michigan.' Statutory basis: MCL 168.523 as interpreted post-Proposal 2 of 2022, which constitutionalized the no-ID affidavit alternative in Article II, § 4 of the Michigan Constitution. NEEDS MONITORING: a proposed constitutional amendment (\"Americans for Citizens Voting\") that would eliminate the affidavit alternative was in Board of State Canvassers petition-review stage as of June 2026. That is a proposed ballot measure, not current law, and does not affect the November 3, 2026 general election."
       },
       {
         "id": "rule-mi-same-day-registration",
@@ -790,6 +830,23 @@
         "severity": "medium",
         "reviewState": "new",
         "visibility": "internal_only"
+      },
+      {
+        "id": "upd-mi07-004",
+        "title": "Voter ID rule corrected — Michigan does not require photo ID; affidavit path clarified",
+        "fieldChanged": "rule-mi-voter-id",
+        "oldValue": "Michigan voters must show photo ID to vote in person. ... Voters without photo ID may sign an affidavit of identity and cast a regular ballot — no provisional ballot required. Prop 2-2022 codified the affidavit alternative.",
+        "newValue": "Photo ID is NOT a requirement to vote in Michigan. Every in-person voter may either show a photo ID or sign the 'Affidavit of Voter Not in Possession of Picture Identification' and receive a regular ballot. Acceptable photo IDs (for voters who choose to present one) include a Michigan or out-of-state driver's license or state ID; federal/state/county/local government-issued photo ID; U.S. passport; military ID; educational institution ID; tribal photo ID; and Michigan concealed pistol license. Source: Michigan SOS 'Vote on Election Day' (https://www.michigan.gov/sos/elections/voting/vote-on-election-day), which states verbatim: 'Photo ID is not a requirement to vote in Michigan.' Constitutional basis: Proposal 2 of 2022 (Michigan Constitution, Article II § 4).",
+        "sourceIds": [
+          "src-mi-sos-vote-on-election-day",
+          "src-mi-sos-voter-id-flyer",
+          "src-mi-sos-affidavit-pdf"
+        ],
+        "detectedAt": "2026-09-09T20:15:00Z",
+        "severity": "high",
+        "reviewState": "reviewed",
+        "visibility": "public",
+        "changeKind": "correction"
       }
     ],
     "CONFLICTS": [

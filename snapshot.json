@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:52:57.828Z",
-  "exportedAt": "2026-09-09T20:50:48.855Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:20:27.794Z",
+  "exportedAt": "2026-09-16T09:51:36.051Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Authoritative statewide guidance stating 'Photo ID is not a requirement to vote in Michigan.' Lists the acceptable photo IDs and describes the affidavit path for voters without ID (regular ballot, no provisional)."
       },
@@ -1314,20 +1314,100 @@
         "relevanceSummary": "This piece explains that state officials recommend against certifying a voter‑citizenship and stricter voter ID proposal for the November ballot and notes the measure would have eliminated the affidavit option for voters without ID, a direct potential change to in‑person voter ID procedures for MI-07 voters if the proposal ever reaches the ballot.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0589b3w",
+        "headline": "Election workers relieved after U.S. Supreme Court rejects mail-in ballot restrictions",
+        "sourceName": "WILX News 10",
+        "url": "https://www.wilx.com/2026/09/16/election-workers-relieved-after-us-supreme-court-rejects-mail-in-ballot-restrictions/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The article explains that Michigan’s normal absentee voting procedures, including voting by mail or drop box, early in-person voting, and Election Day precinct voting, will remain in place after the U.S. Supreme Court rejected federal efforts to restrict mail-in ballots, and notes that absentee ballots will be mailed statewide and registration updates can be made online until two weeks before the election.[2]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0dskos0",
+        "headline": "Election officials prepare for chaos as Trump seeks to tilt the midterms to Republicans",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/investigations/election-officials-prepare-chaos-trump-seeks-tilt-midterms-republicans-2026-09-15/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "The story describes how Michigan’s Secretary of State is advising local clerks statewide on handling potential federal demands for access to voting machines or records, with legal counsel on standby, which is relevant to MI-07 voters as it addresses election security, administration, and protection of local voting equipment and data.[9]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0yj8fnq",
+        "headline": "Michigan 2026 General Election Guide: Candidates & Ballot",
+        "sourceName": "Michigan Republican Primary",
+        "url": "https://michiganrepublicanprimary.com/michigan-2026-general-election-guide/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This guide summarizes statewide Michigan election procedures for the general, including closing dates for online and mail registration (Oct. 19), the mandatory early voting window (Oct. 24–Nov. 1), the availability of absentee ballots starting Sept. 24, military and overseas ballot deadlines, and how voters can check registration, locate polling sites, and request or track absentee ballots, providing practical voting-process information for MI-07 residents.[8]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0metq6q",
+        "headline": "National Voter Registration Day: How you can register to vote in Michigan",
+        "sourceName": "WXYZ",
+        "url": "https://www.wxyz.com/news/national-voter-registration-day-how-you-can-register-to-vote-in-michigan",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This piece outlines Michigan’s voter registration procedures, including eligibility rules, multiple registration methods (online, mail, clerk or county offices, Secretary of State branches), and the requirement that within 14 days of an election voters must register in person at a clerk’s or satellite office and present proof of residency, directly affecting MI-07 voters.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0spcdz4",
+        "headline": "Decision 2026: Important dates to know for the midterm elections",
+        "sourceName": "ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2026/09/14/decision-2026-important-dates-to-know-for-the-midterm-elections/",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "This statewide overview lists key Michigan election administration timelines, including when absentee ballots become available (Sept. 24), deadlines for requesting absentee ballots, the last day to register online or by mail (Oct. 19), and the mandatory early voting period before the election, all of which apply to MI-07 voters.[6]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0ga28nx",
+        "headline": "AG Nessel Issues Statement on First Circuit Keeping USPS Mail Ballot Rule Injunction in Place",
+        "sourceName": "Michigan Attorney General",
+        "url": "https://www.michigan.gov/ag/news/press-releases/2026/09/10/ag-nessel-issues-statement-on-first-circuit-keeping-usps-mail-ballot-rule-injunction-in-place",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "The Attorney General’s statement notes that a federal appeals court kept in place an injunction blocking mandatory implementation of a USPS mail-ballot rule for the November 2026 election, meaning Michigan’s existing mail ballot processes and timelines will continue without the new federal requirement, affecting how MI-07 absentee ballots are handled.[4]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0xpemkp",
+        "headline": "How to vote in Michigan’s 2026 November election",
+        "sourceName": "Watershed Voice",
+        "url": "https://watershedvoice.com/2026/09/10/how-to-vote-in-michigans-2026-november-election/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This explainer details Michigan’s voter registration and ballot procedures, including ways to register (in person, by mail, online), deadlines for mail and online registration, in-person registration with proof of residency from October 20 through Election Day, and options for voting (Election Day precincts, early voting sites, absentee ballots and applications), giving MI-07 voters comprehensive, actionable instructions.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0750q35",
+        "headline": "State Supreme Court responds to lawsuit over voter citizenship ballot proposal denial",
+        "sourceName": "ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2026/09/09/state-supreme-court-responds-to-lawsuit-over-voter-citizenship-ballot-proposal-denial/",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "This report covers the Michigan Supreme Court’s decision rejecting a lawsuit that sought to force a voter-citizenship constitutional amendment onto the November ballot, clarifying that this proposed change to voter eligibility and ballot language will not appear in the general election, which informs MI-07 voters about ballot-access and candidate-qualification context.[5]",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-mi07-auto",
-      "startedAt": "2026-09-09T08:50:18.230Z",
-      "completedAt": "2026-09-09T08:52:57.828Z",
+      "id": "run-2026-09-16-mi07-auto",
+      "startedAt": "2026-09-16T09:18:41.575Z",
+      "completedAt": "2026-09-16T09:20:27.794Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
-      "updatesCreated": 0,
+      "sourcesChecked": 11,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for MI-07. Sources checked: 12. LLM verifications: 14. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for MI-07. Sources checked: 11. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:52:57.828Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:20:27.794Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

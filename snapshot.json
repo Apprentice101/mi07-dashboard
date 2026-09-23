@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:20:27.794Z",
-  "exportedAt": "2026-09-16T09:51:36.051Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:15:24.076Z",
+  "exportedAt": "2026-09-23T09:37:54.898Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "Authoritative statewide guidance stating 'Photo ID is not a requirement to vote in Michigan.' Lists the acceptable photo IDs and describes the affidavit path for voters without ID (regular ballot, no provisional)."
       },
@@ -1394,20 +1394,100 @@
         "relevanceSummary": "This report covers the Michigan Supreme Court’s decision rejecting a lawsuit that sought to force a voter-citizenship constitutional amendment onto the November ballot, clarifying that this proposed change to voter eligibility and ballot language will not appear in the general election, which informs MI-07 voters about ballot-access and candidate-qualification context.[5]",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0vlpd8z",
+        "headline": "Michigan voting season about to begin for November election",
+        "sourceName": "CBS News Detroit",
+        "url": "https://www.cbsnews.com/detroit/video/michigan-voting-season-about-to-begin-for-november-election/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "The report says Michigan will begin sending absentee ballots to registered voters who requested them on September 24. That statewide mail-ballot distribution date applies directly to eligible MI-07 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0nb3t51",
+        "headline": "State House Committee hears testimony over concerns about ballot initiative process",
+        "sourceName": "Michigan Public",
+        "url": "https://www.michiganpublic.org/politics-government/2026/09/21/state-house-committee-hears-testimony-over-concerns-about-ballot-initiative-process",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The report covers testimony about Michigan’s ballot-initiative qualification process, including the requirement for more than 440,000 valid signatures. The statewide process is relevant to MI-07 voters because it determines which proposed questions can appear on future Michigan ballots.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0jz3awm",
+        "headline": "Michigan House committee probes canvassing process amid dispute over citizen-only voting signatures",
+        "sourceName": "Michigan Advance",
+        "url": "https://michiganadvance.com/2026/09/21/michigan-house-committee-probes-canvassing-process-amid-dispute-over-citizen-only-voting-signatures/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "A Michigan House panel is examining how state officials determine whether ballot-initiative questions qualify for the ballot after disputes over signature review. The canvassing and ballot-access process is statewide and may affect future election questions presented to MI-07 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0pd7xl0",
+        "headline": "How to register to vote in Michigan ahead of the midterm elections",
+        "sourceName": "WDIV ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2026/09/21/how-to-register-to-vote-in-michigan-ahead-of-the-midterm-elections/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The article explains that Michigan residents can register online, by mail, or in person, but registration within 14 days of an election requires visiting a city or township clerk and providing proof of residency. It lists a Michigan license or ID, utility bill, bank statement, paycheck, or government document as acceptable proof.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-01q1azq",
+        "headline": "Voting in Michigan: What to know ahead of November election",
+        "sourceName": "FOX 2 Detroit",
+        "url": "https://www.fox2detroit.com/news/election-2026-michigan-absentee-ballots-register-vote",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "This Michigan voting guide explains absentee-ballot availability beginning September 24, registration options, and identification requirements. It notes that voters registering by mail without a Michigan license, state ID, or Social Security number may submit a copy of specified photo ID or address documents, while in-person registrants may use a photo ID or sign an affidavit.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0xk89a8",
+        "headline": "Palevich: County voters can use township site for early ballots",
+        "sourceName": "The Alpena News",
+        "url": "https://www.thealpenanews.com/news/local-news/2026/09/palevich-county-voters-can-use-township-site-for-early-ballots/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article describes Michigan absentee-ballot return options, including mail, clerk offices, and drop boxes, and says completed ballots must reach the clerk by 8 p.m. on Election Day. It also lists accepted photo IDs and the affidavit alternative for voting, providing statewide procedural information relevant to MI-07 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0o4h3pw",
+        "headline": "Michigan Absentee and Early Voting Dates for 2026 ...",
+        "sourceName": "The Arab American News",
+        "url": "https://arabamericannews.com/2026/09/18/michigan-absentee-voting-starts-september-24-as-november-election-countdown-begins/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "Michigan absentee ballots become available September 24, including automatic mailing to voters on the permanent mail-ballot list. The article also identifies October 19 as the online or mail registration deadline and October 24–November 1 as the early in-person voting period, all of which apply to MI-07 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-01rqe4e",
+        "headline": "Plan to vote in election? How to get registered before November",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/09/16/michigan-voter-registration-guide/91789498007/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The guide explains Michigan registration deadlines and procedures: online or mail registration is available through 15 days before the election, while registration within 14 days of the election must occur in person with proof of residency. It lists acceptable proof documents such as a Michigan ID, utility bill, bank statement, lease, or government document.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-mi07-auto",
-      "startedAt": "2026-09-16T09:18:41.575Z",
-      "completedAt": "2026-09-16T09:20:27.794Z",
+      "id": "run-2026-09-23-mi07-auto",
+      "startedAt": "2026-09-23T09:14:06.781Z",
+      "completedAt": "2026-09-23T09:15:24.076Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for MI-07. Sources checked: 11. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for MI-07. Sources checked: 11. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:20:27.794Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:15:24.076Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

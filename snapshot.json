@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:15:24.076Z",
-  "exportedAt": "2026-09-23T09:37:54.898Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:20:06.178Z",
+  "exportedAt": "2026-09-30T10:38:01.226Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "Authoritative statewide guidance stating 'Photo ID is not a requirement to vote in Michigan.' Lists the acceptable photo IDs and describes the affidavit path for voters without ID (regular ballot, no provisional)."
       },
@@ -1474,20 +1474,100 @@
         "relevanceSummary": "The guide explains Michigan registration deadlines and procedures: online or mail registration is available through 15 days before the election, while registration within 14 days of the election must occur in person with proof of residency. It lists acceptable proof documents such as a Michigan ID, utility bill, bank statement, lease, or government document.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-05647th",
+        "headline": "Voters in several Michigan counties haven't received absentee ballots on time",
+        "sourceName": "Votebeat Michigan",
+        "url": "https://www.votebeat.org/michigan/2026/09/29/absentee-ballot-delays-missed-deadline-antrim-presque-isle-counties/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Reports that clerks in several Michigan counties missed the Sept. 24 statutory deadline to mail absentee ballots. Although the named counties are outside MI-07, the article highlights statewide ballot-distribution requirements and administrative risks relevant to Michigan voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0ymn5jk",
+        "headline": "What to know about voting absentee in Michigan's 2026 midterm election",
+        "sourceName": "CBS News Detroit",
+        "url": "https://www.cbsnews.com/detroit/news/michigan-absentee-ballots-2026-midterm-election/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Provides statewide absentee-voting deadlines: online requests are due Oct. 30, in-person requests Nov. 2, and ballots must reach the clerk by 8 p.m. Nov. 3. It also explains return options through mail, designated drop boxes, or the clerk’s office.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0hadljp",
+        "headline": "How to vote in the 2026 midterm elections in Michigan",
+        "sourceName": "Votebeat Michigan",
+        "url": "https://www.votebeat.org/michigan/2026/09/28/how-to-vote-general-election-2026-early-absentee-ballot-id/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Explains Michigan’s Nov. 3 general-election voting procedures, including polling hours, absentee voting, registration, and the permanent absentee list. Absentee ballots must be received by 8 p.m. on Election Day; postmarks do not count.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0cftngg",
+        "headline": "Michigan absentee ballots are going out. How to get yours, track it",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/michigan-absentee-ballots-going-yours-144309124.html",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "Reports that Michigan began sending absentee ballots on Sept. 24 and explains application, registration, drop-box, mailing, tracking, and Election Day return procedures applicable to MI-07 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0z77t4g",
+        "headline": "Your Guide To The 2026 Michigan Midterm Elections: Dates, Races And How To Vote",
+        "sourceName": "Patch Michigan",
+        "url": "https://patch.com/michigan/across-mi/amp/34900446/your-guide-to-the-2026-michigan-midterm-elections-dates-races-and-how-to-vote",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Summarizes Michigan voting dates and procedures, including requesting absentee ballots and using drop boxes without an excuse. These statewide rules apply directly to MI-07 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-04qlpn0",
+        "headline": "Absentee ballots are available in Michigan for the November election",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/09/25/michigan-absentee-ballot-application-request-november-election-deadline/91934863007/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Explains how Michigan voters can obtain absentee-ballot applications through the state or their local clerk, providing a statewide voter resource relevant to MI-07.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0xzthuj",
+        "headline": "Nessel discusses threats of federal monitors, law enforcement at polling places during voter forum",
+        "sourceName": "The Gander",
+        "url": "https://gandernewsroom.com/news/elections/nessel-election-threats-michigan/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Covers Michigan Attorney General Dana Nessel’s discussion of election administration and the state’s decentralized system of county and local clerks. The issues concern how elections are administered statewide, including in MI-07.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-006qb4t",
+        "headline": "Absentee ballots going out in Michigan: What to know",
+        "sourceName": "Bridge Michigan",
+        "url": "https://bridgemi.com/michigan-government/absentee-ballots-going-out-in-michigan-what-to-know/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Details Michigan’s no-excuse absentee voting, application requirements, online-request deadline, drop-box and clerk return options, and the 8 p.m. Election Day receipt requirement.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-mi07-auto",
-      "startedAt": "2026-09-23T09:14:06.781Z",
-      "completedAt": "2026-09-23T09:15:24.076Z",
+      "id": "run-2026-09-30-mi07-auto",
+      "startedAt": "2026-09-30T10:19:01.155Z",
+      "completedAt": "2026-09-30T10:20:06.178Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for MI-07. Sources checked: 11. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for MI-07. Sources checked: 11. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:15:24.076Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:20:06.178Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

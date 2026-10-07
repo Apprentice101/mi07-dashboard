@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:20:06.178Z",
-  "exportedAt": "2026-09-30T10:38:01.226Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:55:55.919Z",
+  "exportedAt": "2026-10-07T11:13:22.692Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -1554,20 +1554,100 @@
         "relevanceSummary": "Details Michigan’s no-excuse absentee voting, application requirements, online-request deadline, drop-box and clerk return options, and the 8 p.m. Election Day receipt requirement.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0i2giys",
+        "headline": "Four weeks before Election Day, mail ballot returns are up 30% over same point in 2022",
+        "sourceName": "Michigan Department of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/10/06/four-weeks-before-election-day-mail-ballot-returns-are-up-30-over-same-point-in-2022",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Michigan’s Secretary of State reports increased mail-ballot returns and reminds voters that ballots must be deposited in an assigned drop box or received by the clerk by 8 p.m. on Election Day.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0mnyliq",
+        "headline": "How early voting is evolving in Michigan and beyond",
+        "sourceName": "FOX 2 Detroit",
+        "url": "https://www.fox2detroit.com/news/michigan-early-voting-midterm-november-election",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article provides Michigan voting deadlines and options, including absentee-ballot return methods, online and mail registration deadlines, in-person registration, early voting from October 24 through November 1, and Election Day voting.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-01ouux2",
+        "headline": "Over 125,000 voters have already cast a ballot in Michigan, voting ...",
+        "sourceName": "CBS News Detroit",
+        "url": "https://www.cbsnews.com/detroit/news/how-many-michigan-voters-have-already-cast-a-ballot/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article explains Michigan absentee-ballot request deadlines, Election Day return rules, polling hours, early voting, and how to find a sample ballot. These statewide procedures directly inform MI-07 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0cm2f1h",
+        "headline": "Inside the process of protecting Michigan elections",
+        "sourceName": "The Alpena News",
+        "url": "https://www.thealpenanews.com/news/2026/10/inside-the-process-of-protecting-michigan-elections/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article describes Michigan’s election-administration process, including county tabulator programming, ballot proofing, ballot-number checks, absentee-ballot scanning, and signature verification. These statewide procedures apply to voters in MI-07.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0p0tod9",
+        "headline": "Election 2026: Your mid-Michigan voter guide for November county by county",
+        "sourceName": "WKAR",
+        "url": "https://www.wkar.org/election-2026/2026-10-03/election-2026-your-mid-michigan-voter-guide-for-november-county-by-county",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "The guide gives Michigan registration deadlines, early-voting dates, absentee-ballot mailing guidance, drop-box and clerk delivery options, and polling hours. Although focused on mid-Michigan counties, the statewide deadlines and procedures apply to MI-07 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-04yhdef",
+        "headline": "Detroit Free Press 2026 voter guide: Candidates on data centers, affordability and more",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/10/03/detroit-free-press-2026-general-election-voter-guide/91986432007/",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "The guide states that Michigan absentee ballots were mailed September 24, early in-person voting runs October 24 through November 1, and voters should check local clerks for early-voting locations and drop boxes. It also notes that voters can register and vote in person on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0rl4473",
+        "headline": "Thousands of Wayne County voters to get new ballots after misprint",
+        "sourceName": "Votebeat Michigan",
+        "url": "https://www.votebeat.org/michigan/2026/10/02/wayne-county-ballot-misprint-belleville-library-van-buren-sumpter/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "Wayne County is issuing replacement mail ballots to at least 8,500 voters after a printing error. Voters who return the faulty ballot will not be penalized, while officials advise recipients to shred it and wait for the replacement; Wayne County procedures may affect some MI-07 voters and provide relevant statewide administrative context.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0ijpkdn",
+        "headline": "Voters in multiple Michigan counties still lack absentee ballots after clerks miss mailing deadline",
+        "sourceName": "Michigan Advance",
+        "url": "https://michiganadvance.com/2026/09/30/voters-in-multiple-michigan-counties-still-dont-have-absentee-ballots-after-clerks-miss-mailing-deadline/",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "Several Michigan clerks missed the statutory deadline to mail absentee ballots, which was September 24 for the 2026 midterms. The article explains how counties and municipal clerks distribute ballots, making this relevant to MI-07 voters awaiting mail ballots.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-mi07-auto",
-      "startedAt": "2026-09-30T10:19:01.155Z",
-      "completedAt": "2026-09-30T10:20:06.178Z",
+      "id": "run-2026-10-07-mi07-auto",
+      "startedAt": "2026-10-07T10:54:55.839Z",
+      "completedAt": "2026-10-07T10:55:55.919Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for MI-07. Sources checked: 11. LLM verifications: 12. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for MI-07. Sources checked: 11. LLM verifications: 12. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:20:06.178Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:55:55.919Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

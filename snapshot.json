@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:55:55.919Z",
-  "exportedAt": "2026-10-07T11:13:22.692Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:19:34.533Z",
+  "exportedAt": "2026-10-14T09:32:48.276Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-09-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "high",
         "notes": "Authoritative statewide guidance stating 'Photo ID is not a requirement to vote in Michigan.' Lists the acceptable photo IDs and describes the affidavit path for voters without ID (regular ballot, no provisional)."
       },
@@ -1634,20 +1634,100 @@
         "relevanceSummary": "Several Michigan clerks missed the statutory deadline to mail absentee ballots, which was September 24 for the 2026 midterms. The article explains how counties and municipal clerks distribute ballots, making this relevant to MI-07 voters awaiting mail ballots.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0wypsab",
+        "headline": "Are you registered to vote in Michigan? Here's how to check ahead of November general election",
+        "sourceName": "ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/news/local/2026/10/14/are-you-registered-to-vote-in-michigan-heres-how-to-check-ahead-of-november-general-election/",
+        "publishedAt": "2026-10-14",
+        "relevanceSummary": "The article directs Michigan voters to verify registration before the general election and explains that voters lacking photo identification can sign an affidavit and still register or vote under the state’s procedures.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0pr9cd5",
+        "headline": "City shares information to help residents prepare for the General Election",
+        "sourceName": "City of Ann Arbor",
+        "url": "https://www.a2gov.org/news/posts/city-shares-information-to-help-residents-prepare-for-the-general-election/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The local-government notice shows how Michigan voters can verify registration, locate their assigned precinct and polling place, and use early-voting sites. It is county-level administrative guidance that may inform procedures and logistics relevant to voters across the district’s jurisdictions.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-08v4ljr",
+        "headline": "West Michigan votes Nov. 3: What to know about voting in the state's General Election",
+        "sourceName": "WWMT",
+        "url": "https://wwmt.com/news/arc/michigan-november-election-voting-poll-ballot-voters-politics-government-frequently-asked-questions-community-west-michigan",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The Michigan voting guide covers early voting beginning Oct. 24, absentee-ballot request and receipt deadlines, and ballot return options. It also explains the statewide voter-ID rule: voters should bring photo identification, but those without acceptable ID can sign an affidavit and vote a regular ballot.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-02zj10w",
+        "headline": "How to register to vote in Michigan's November election",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/politics/elections/2026/10/13/how-to-register-to-vote-in-michigan-november-election/92215000007/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Michigan voters who register within 14 days of the election must provide proof of residency, such as a Michigan ID, utility bill, bank statement, or other government document. The article also describes online and paper absentee-ballot requests and clerk-assisted requests.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0f6crlj",
+        "headline": "Election Day is just ahead. How to vote now and beat the lines",
+        "sourceName": "Lansing State Journal",
+        "url": "https://www.lansingstatejournal.com/story/news/politics/2026/10/13/michigan-election-day-absentee-early-voting/92232573007/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide guide explains how Michigan voters can request absentee ballots, including proof-of-residency requirements when applying within 14 days of an election. It also states that completed absentee ballots must be submitted by mail, drop box, or clerk’s office by 8 p.m. on Election Day, subject to military and overseas-voter exceptions.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-02jf13r",
+        "headline": "Three weeks before Election Day, 6% of Michigan’s active registered voters have already cast their ballot",
+        "sourceName": "Michigan Department of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/10/13/three-weeks-before-election-day-6-percent-of-voters-have-already-cast-their-ballot",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Michigan voters can track absentee ballots online, return them to a drop box in their own city or township, or submit them at an early-voting site. Ballots must reach the clerk or an assigned drop box by 8 p.m. on Election Day; online registration is available through Oct. 19, while in-person registration remains available through Election Day.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0dg9we2",
+        "headline": "Michigan runs elections differently than most states — Here’s how it works",
+        "sourceName": "ClickOnDetroit",
+        "url": "https://www.clickondetroit.com/decision-2026/2026/10/12/michigan-runs-elections-differently-than-most-states-heres-how-it-works/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The statewide explainer describes Michigan’s decentralized election administration, involving more than 1,600 local officials and bipartisan county canvassers. This framework applies to MI-07 voters and explains how county-level canvass boards review and certify results.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0ktficz",
+        "headline": "Voting Guide: What Michigan voters need to know ahead of the 2026 midterm election",
+        "sourceName": "WLNS",
+        "url": "https://www.wlns.com/your-local-election-hq/how-to-vote-nov-26/",
+        "publishedAt": "2026-10-10",
+        "relevanceSummary": "The guide explains how to check registration, find polling and early-voting locations, view a sample ballot, and track an absentee ballot through Michigan’s voter-information system. It also covers the Oct. 19 online-registration deadline, late registration at clerks’ offices, acceptable photo IDs, and the affidavit option when voters lack ID.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-mi07-auto",
-      "startedAt": "2026-10-07T10:54:55.839Z",
-      "completedAt": "2026-10-07T10:55:55.919Z",
+      "id": "run-2026-10-14-mi07-auto",
+      "startedAt": "2026-10-14T09:18:42.924Z",
+      "completedAt": "2026-10-14T09:19:34.533Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 11,
+      "sourcesChecked": 12,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for MI-07. Sources checked: 11. LLM verifications: 12. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for MI-07. Sources checked: 12. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:55:55.919Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:19:34.533Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",

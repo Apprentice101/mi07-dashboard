@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:19:34.533Z",
-  "exportedAt": "2026-10-14T09:32:48.276Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:10:06.168Z",
+  "exportedAt": "2026-10-21T09:22:42.346Z",
   "districtCode": "MI-07",
   "data": {
     "DISTRICT": {
@@ -76,7 +76,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-mi-voter-info": {
@@ -1714,20 +1714,100 @@
         "relevanceSummary": "The guide explains how to check registration, find polling and early-voting locations, view a sample ballot, and track an absentee ballot through Michigan’s voter-information system. It also covers the Oct. 19 online-registration deadline, late registration at clerks’ offices, acceptable photo IDs, and the affidavit option when voters lack ID.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0omfz2w",
+        "headline": "10% of Michigan voters have already cast their ballots",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/10-michigan-voters-already-voted-215900629.html",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The statewide update says early voting sites open October 24 through November 1 and that voters should return absentee ballots to a clerk or assigned drop box by 8 p.m. Election Day. Unregistered voters must register in person at their local clerk’s office with proof of residency.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0rbnqky",
+        "headline": "More Than 780,000 Michiganders Have Already Voted, Up ...",
+        "sourceName": "Deadline Detroit",
+        "url": "https://www.deadlinedetroit.com/articles/35228/more_than_780_000_michiganders_have_already_voted",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan election officials recommend hand-delivering unreturned mail ballots to an assigned drop box, clerk’s office, early-voting site, or polling place rather than mailing them. Ballots must reach election officials by 8 p.m. Election Day to count.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0io17zk",
+        "headline": "Early voting is about to start for most of Michigan. Here's what to know",
+        "sourceName": "WCMU",
+        "url": "https://www.wcmu.org/local-regional-news/2026-10-20/early-voting-is-about-to-start-for-most-michigan-heres-what-to-know",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan early voting runs October 24 through November 1, with voters showing valid identification and casting ballots through the normal voting process. Mail ballots must reach the city or township clerk, including via drop box, by 8 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0ejvyn5",
+        "headline": "Early voting begins Saturday statewide",
+        "sourceName": "WNEM",
+        "url": "https://www.wnem.com/2026/10/20/early-voting-begins-saturday-statewide/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan early voting begins October 24, and voters will present identification, receive a ballot, vote in a booth, and process it through a tabulator. The report also advises returning absentee ballots in person because of postal delays; ballots must arrive by 8 p.m. November 3.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0kuzzby",
+        "headline": "More than 780,000 Michigan voters have cast their ballot two weeks before Election Day; active registered voter turnout reaches 10.7%",
+        "sourceName": "Michigan Secretary of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/10/20/more-than-780000-michigan-voters-have-cast-their-ballot-two-weeks-before-election-day",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Michigan voters who have not returned a mail ballot are urged to hand-deliver it to their assigned drop box, clerk’s office, early-voting site, or polling place because clerks must receive it by 8 p.m. on Election Day. Voters registering within 14 days of the election must register in person with proof of residency.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0yvtjma",
+        "headline": "What to know about early voting, mail-in ballots and polling times in Michigan",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/know-early-voting-mail-ballots-123900086.html",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The article explains Michigan absentee-ballot handling: voters must complete the ballot, place it in the secrecy sleeve, sign and date the envelope, and ensure the clerk receives it by 8 p.m. Election Day. Election workers compare the envelope signature with signatures on state identification or registration records.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-0bvh3m4",
+        "headline": "MDCR Shares Civil Rights Voting Guide Ahead of Election Day",
+        "sourceName": "Michigan Department of Civil Rights",
+        "url": "https://www.michigan.gov/mdcr/news/releases/2026/10/19/mdcr-shares-civil-rights-voting-guide-ahead-of-election-day",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The guide explains Michigan mail-voting options, including accessible electronic mail ballots for voters with disabilities, and says requests can be made until 5 p.m. October 30. Completed ballots may be returned by mail, secure drop box, or directly to the local clerk.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-mi07-02fb85d",
+        "headline": "Oct. 23 meeting of Board of State Canvassers canceled",
+        "sourceName": "Michigan Secretary of State",
+        "url": "https://www.michigan.gov/sos/resources/news/2026/10/16/oct-23-meeting-of-board-of-state-canvassers-canceled",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The Secretary of State announced cancellation of the October 23 Board of State Canvassers meeting and provided updated statewide election-status information, including absentee-ballot returns and early voting ahead of the November 3 general election. The administrative update is relevant to Michigan voters tracking election procedures and canvass operations.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-mi07-auto",
-      "startedAt": "2026-10-14T09:18:42.924Z",
-      "completedAt": "2026-10-14T09:19:34.533Z",
+      "id": "run-2026-10-21-mi07-auto",
+      "startedAt": "2026-10-21T09:09:23.314Z",
+      "completedAt": "2026-10-21T09:10:06.168Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
+      "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for MI-07. Sources checked: 12. LLM verifications: 13. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for MI-07. Sources checked: 11. LLM verifications: 12. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:19:34.533Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:10:06.168Z",
     "WEEKLY_REPORT": {
       "id": "wr-mi07-2026-w24",
       "periodStart": "2026-06-08",
